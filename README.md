@@ -92,11 +92,13 @@ Time | Monday, Tuesday, Thursday  | Wednesday | Friday
 3:00 - 4:30 | Module 4      | Module 3     | Begin Weekend Lab
 4:30 - 5:00 | Office Hours   | Office Hours | Rest
 
-**Instructors**
-Jean Weatherwax - jean.weatherwax@generalassemb.ly - [Jean's Github](https://github.com/jeanmw)
+**Instructors**  
+Jean Weatherwax - jean.weatherwax@generalassemb.ly - [Jean's Github](https://github.com/jeanmw)  
 Justin Castilla - justin.castilla@generalassemb.ly - [Justin's Github](https://github.com/justincastilla)
+  
+  
+**Slack**  
+Mercedes: @mercedes  
+Jean: @jean  
+Justin: @justincastilla   
 
-**Slack**
-Mercedes: @mercedes
-Jean: @jean
-Justin: @justincastilla 
