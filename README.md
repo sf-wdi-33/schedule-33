@@ -79,7 +79,7 @@
 [1-5A]: https://github.com/sf-wdi-33/
 [1-5B]: https://github.com/sf-wdi-33/
 [1-5C]: https://github.com/sf-wdi-33/
-[1-5D]: https://github.com/sf-wdi-33/
+[1-5D]: https://github.com/sf-wdi-33/tic-tac-toe
 [1-5E]: https://github.com/sf-wdi-33/
 
 
