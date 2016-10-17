@@ -1,4 +1,6 @@
-# ![52465-5a0924aaaf6af2265c6bb823b7613658-medium_jpg](https://cloud.githubusercontent.com/assets/4304660/19450578/e5301a36-945e-11e6-8874-d9d19e057218.jpg)General Assembly Cohort 33
+![logo](https://cloud.githubusercontent.com/assets/4304660/19456424/3b4262e6-9476-11e6-801f-b810718da875.jpg)  
+#General Assembly Cohort 33  
+
 [Class Culture, Policies, & Procedures]()
 
 #### Week 2 - More Javascript & the DOM
