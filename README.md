@@ -51,7 +51,7 @@
  **10:30am - 12:30pm Module 2** | Icebreakers / Values |   [HTML && CSS][1-2B]               |  [Control Flow][1-2B]  |  [Dom Manipulation][1-3B] | Review 
  **1:30pm - 2:50pm Module 3** | [How The Internet Works][1-1C]  |  [My Personal Site][1-2C]  |   Outcomes | [DOM Events][1-4C] | [Bootstrap][1-5C]
 **3:00pm - 4:30pm Module 4** | [Github workflow][1-1D] | [My Personal Site][1-2D]  |   [JS Functions][1-3D] |  [Training: DOM & Events][1-4D] | [Tic tac toe][1-5D]   
-**Training / Office Hours**                | [Command Line Mystery][1-1E] | [HW: My personal site][1-2E] |  [Training: Functions][1-3E]  | [LOTR DOM Manipulation Lab(Alex)][1-4E]  | 
+**Training / Office Hours**                | [Command Line Mystery][1-1E] | [HW: My personal site][1-2E] |  [Training: Functions][1-3E]  |  | 
 
 [1-1A]: https://github.com/sf-wdi-33/schedule-33/orientation-deck.pdf "Orientation Deck"
 [1-1C]: https://github.com/sf-wdi-33/how-the-internet-works "How the Internet Works"
