@@ -20,13 +20,13 @@
 [2-1E]: https://github.com/sf-wdi-33/
 
 [2-2A]: https://github.com/sf-wdi-33/
-[2-2B]: https://github.com/sf-wdi-33/
-[2-2C]: https://github.com/sf-wdi-33/
+[2-2B]: https://github.com/sf-wdi-33/html-forms
+[2-2C]: https://github.com/sf-wdi-33/ajax
 [2-2D]: https://github.com/sf-wdi-33/
 [2-2E]: https://github.com/sf-wdi-33/
 
 [2-3A]: https://github.com/sf-wdi-33/handlebars-client-side-templating
-[2-3B]: https://github.com/sf-wdi-33/
+[2-3B]: https://github.com/sf-wdi-33/handlebars-client-side-templating
 [2-3C]: https://github.com/sf-wdi-33/
 [2-3D]: https://github.com/sf-wdi-33/geoquakes
 [2-3E]: https://github.com/sf-wdi-33/geoquakes
