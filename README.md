@@ -39,9 +39,9 @@
 
 [2-5A]: https://github.com/sf-wdi-33/
 [2-5B]: https://github.com/sf-wdi-33/
-[2-5C]: https://github.com/sf-wdi-33/
-[2-5D]: https://github.com/sf-wdi-33/
-[2-5E]: https://github.com/sf-wdi-33/
+[2-5C]: https://github.com/sf-wdi-33/project-00
+[2-5D]: https://github.com/sf-wdi-33/project-00
+[2-5E]: https://github.com/sf-wdi-33/project-00
 
 #### Week 1 - Fundamentals
 
