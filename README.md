@@ -70,9 +70,9 @@
 [1-3E]: https://github.com/sf-wdi-33/
 
 
-[1-4A]: https://github.com/sf-wdi-33/chrome-dev-tools-and-debugger "Debugging with Chrome Dev Tools"
-[1-4B]: https://github.com/sf-wdi-33/
-[1-4C]: https://github.com/sf-wdi-33/
+[1-4A]: https://github.com/sf-wdi-33/dev-tools "Debugging with Chrome Dev Tools"
+[1-4B]: https://github.com/sf-wdi-33/dom-manipulation
+[1-4C]: https://github.com/sf-wdi-33/dom-events-jquery
 [1-4D]: https://github.com/sf-wdi-33/
 [1-4E]: https://github.com/sf-wdi-33/
 
