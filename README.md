@@ -13,8 +13,8 @@
 **3:00pm - 4:30pm Module 4** | [Objects][2-1D]  | [3rd Party APIs][2-2D]  | [Geoquakes][2-3D]  | [Prototypal Inheritance][2-4D] |   [Project 0][2-5D]
 **Training / Office Hours**  |  |  | [Geoquakes][2-3E]   |   | [Project 0][2-5E]
 
-[2-1A]: https://github.com/sf-wdi-33/building-js-iterators-lab
-[2-1B]: https://github.com/sf-wdi-33/
+[2-1A]: https://github.com/sf-wdi-33/iterator-methods
+[2-1B]: https://github.com/sf-wdi-33/building-js-iterators-lab
 [2-1C]: https://github.com/sf-wdi-33/
 [2-1D]: https://github.com/sf-wdi-33/
 [2-1E]: https://github.com/sf-wdi-33/
@@ -25,7 +25,7 @@
 [2-2D]: https://github.com/sf-wdi-33/
 [2-2E]: https://github.com/sf-wdi-33/
 
-[2-3A]: https://github.com/sf-wdi-33/
+[2-3A]: https://github.com/sf-wdi-33/handlebars-client-side-templating
 [2-3B]: https://github.com/sf-wdi-33/
 [2-3C]: https://github.com/sf-wdi-33/
 [2-3D]: https://github.com/sf-wdi-33/geoquakes
@@ -73,12 +73,12 @@
 [1-4A]: https://github.com/sf-wdi-33/dev-tools "Debugging with Chrome Dev Tools"
 [1-4B]: https://github.com/sf-wdi-33/dom-manipulation
 [1-4C]: https://github.com/sf-wdi-33/dom-events-jquery
-[1-4D]: https://github.com/sf-wdi-33/
+[1-4D]: https://github.com/sf-wdi-33/jquery-dom-lab
 [1-4E]: https://github.com/sf-wdi-33/
 
 [1-5A]: https://github.com/sf-wdi-33/
 [1-5B]: https://github.com/sf-wdi-33/
-[1-5C]: https://github.com/sf-wdi-33/
+[1-5C]: https://github.com/sf-wdi-33/bootstrap
 [1-5D]: https://github.com/sf-wdi-33/tic-tac-toe "Tic Tac Toe"
 [1-5E]: https://github.com/sf-wdi-33/
 
