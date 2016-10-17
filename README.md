@@ -31,7 +31,7 @@
 [2-3D]: https://github.com/sf-wdi-33/geoquakes
 [2-3E]: https://github.com/sf-wdi-33/geoquakes
 
-[2-4A]: https://github.com/sf-wdi-33/
+[2-4A]: https://github.com/sf-wdi-33/js-insertion-sort
 [2-4B]: https://github.com/sf-wdi-33/js-oop-flower-power
 [2-4C]: https://github.com/sf-wdi-33/js-oop-flower-power
 [2-4D]: https://github.com/sf-wdi-33/
