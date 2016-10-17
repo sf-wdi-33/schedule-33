@@ -4,7 +4,7 @@
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:17am - 10:20am Module 1** | [Iterator Methods && Callbacks] [1-1A]| Algorithms | [Training/Templating][1-3A] | [OO JS][1-4A]  | Review
+ **9:17am - 10:20am Module 1** | [Iterator Methods && Callbacks] [1-1A]| Algorithms | [Training/Handlebars][1-3A] | [OO JS][1-4A]  | Review
  **10:30am - 12:30pm Module 2** |[Iterator Methods && Callbacks] [1-1B]  |  [HTML Forms][1-2B] | [Training/Templating][1-3B]    | [OO JS][1-4B]  | Review
  **1:30pm - 2:50pm Module 3** | [Objects][1-1C]  |  [AJAX][1-2C] |   Outcomes | [OO JS][1-4C] | [Project 0 Intro][1-5C]
 **3:00pm - 4:30pm Module 4** | [Objects][1-1D]  | [3rd Party APIs][1-2D]  | [Geoquakes][1-3D]  | [Prototypal Inheritance][1-4D] |   [Project 0][1-5D]
