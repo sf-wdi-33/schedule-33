@@ -12,34 +12,34 @@
 **Training / Office Hours**  |  |  | [Geoquakes][1-3E]   |   | [Project 0][1-5E]
 
 [1-1A]: https://github.com/sf-wdi-33/building-js-iterators-lab
-[1-1B]: https://github.com/sf-wdi-33/schedule-33
-[1-1C]: https://github.com/sf-wdi-33/schedule-33
-[1-1D]: https://github.com/sf-wdi-33/schedule-33
-[1-1E]: https://github.com/sf-wdi-33/schedule-33
+[1-1B]: https://github.com/sf-wdi-33/
+[1-1C]: https://github.com/sf-wdi-33/
+[1-1D]: https://github.com/sf-wdi-33/
+[1-1E]: https://github.com/sf-wdi-33/
 
-[1-2A]: https://github.com/sf-wdi-33/schedule-33
-[1-2B]: https://github.com/sf-wdi-33/schedule-33
-[1-2C]: https://github.com/sf-wdi-33/schedule-33
-[1-2D]: https://github.com/sf-wdi-33/schedule-33
-[1-2E]: https://github.com/sf-wdi-33/schedule-33
+[1-2A]: https://github.com/sf-wdi-33/
+[1-2B]: https://github.com/sf-wdi-33/
+[1-2C]: https://github.com/sf-wdi-33/
+[1-2D]: https://github.com/sf-wdi-33/
+[1-2E]: https://github.com/sf-wdi-33/
 
-[1-3A]: https://github.com/sf-wdi-33/schedule-33
-[1-3B]: https://github.com/sf-wdi-33/schedule-33
-[1-3C]: https://github.com/sf-wdi-33/schedule-33
-[1-3D]: https://github.com/sf-wdi-33/schedule-33
-[1-3E]: https://github.com/sf-wdi-33/schedule-33
+[1-3A]: https://github.com/sf-wdi-33/
+[1-3B]: https://github.com/sf-wdi-33/
+[1-3C]: https://github.com/sf-wdi-33/
+[1-3D]: https://github.com/sf-wdi-33/
+[1-3E]: https://github.com/sf-wdi-33/
 
-[1-4A]: https://github.com/sf-wdi-33/schedule-33
-[1-4B]: https://github.com/sf-wdi-33/schedule-33
-[1-4C]: https://github.com/sf-wdi-33/schedule-33
-[1-4D]: https://github.com/sf-wdi-33/schedule-33
-[1-4E]: https://github.com/sf-wdi-33/schedule-33
+[1-4A]: https://github.com/sf-wdi-33/
+[1-4B]: https://github.com/sf-wdi-33/
+[1-4C]: https://github.com/sf-wdi-33/
+[1-4D]: https://github.com/sf-wdi-33/
+[1-4E]: https://github.com/sf-wdi-33/
 
-[1-5A]: https://github.com/sf-wdi-33/schedule-33
-[1-5B]: https://github.com/sf-wdi-33/schedule-33
-[1-5C]: https://github.com/sf-wdi-33/schedule-33
-[1-5D]: https://github.com/sf-wdi-33/schedule-33
-[1-5E]: https://github.com/sf-wdi-33/schedule-33
+[1-5A]: https://github.com/sf-wdi-33/
+[1-5B]: https://github.com/sf-wdi-33/
+[1-5C]: https://github.com/sf-wdi-33/
+[1-5D]: https://github.com/sf-wdi-33/
+[1-5E]: https://github.com/sf-wdi-33/
 
 #### Week 1 - Fundamentals
 
@@ -65,20 +65,20 @@
 [1-3A]: https://github.com/sf-wdi-33/js-data-types "JS Data Types"
 [1-3B]: https://github.com/sf-wdi-33/js-control-flow "Control FLow"
 [1-3D]: https://github.com/sf-wdi-33/js-functions "Functions"
-[1-3E]: https://github.com/sf-wdi-33/schedule-33
+[1-3E]: https://github.com/sf-wdi-33/
 
 
 [1-4A]: https://github.com/sf-wdi-33/chrome-dev-tools-and-debugger "Debugging with Chrome Dev Tools"
-[1-4B]: https://github.com/sf-wdi-33/schedule-33
-[1-4C]: https://github.com/sf-wdi-33/schedule-33
-[1-4D]: https://github.com/sf-wdi-33/schedule-33
-[1-4E]: https://github.com/sf-wdi-33/schedule-33
+[1-4B]: https://github.com/sf-wdi-33/
+[1-4C]: https://github.com/sf-wdi-33/
+[1-4D]: https://github.com/sf-wdi-33/
+[1-4E]: https://github.com/sf-wdi-33/
 
-[1-5A]: https://github.com/sf-wdi-33/schedule-33
-[1-5B]: https://github.com/sf-wdi-33/schedule-33
-[1-5C]: https://github.com/sf-wdi-33/schedule-33
-[1-5D]: https://github.com/sf-wdi-33/schedule-33
-[1-5E]: https://github.com/sf-wdi-33/schedule-33
+[1-5A]: https://github.com/sf-wdi-33/
+[1-5B]: https://github.com/sf-wdi-33/
+[1-5C]: https://github.com/sf-wdi-33/
+[1-5D]: https://github.com/sf-wdi-33/
+[1-5E]: https://github.com/sf-wdi-33/
 
 
 #### Daily Schedule Overview
@@ -91,3 +91,12 @@ Time | Monday, Tuesday, Thursday  | Wednesday | Friday
 1:30 - 2:50 | Module 3      | Outcomes   | Review
 3:00 - 4:30 | Module 4      | Module 3     | Begin Weekend Lab
 4:30 - 5:00 | Office Hours   | Office Hours | Rest
+
+**Instructors**
+Jean Weatherwax - jean.weatherwax@generalassemb.ly - [Jean's Github](https://github.com/jeanmw)
+Justin Castilla - justin.castilla@generalassemb.ly - [Justin's Github](https://github.com/justincastilla)
+
+**Slack**
+Mercedes: @mercedes
+Jean: @jean
+Justin: @justincastilla 
