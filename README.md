@@ -1,4 +1,4 @@
-# ![52465-5a0924aaaf6af2265c6bb823b7613658-medium_jpg](https://cloud.githubusercontent.com/assets/4304660/19450445/49d69bc8-945e-11e6-8bb8-3a3fb531aaed.jpg)General Assembly Cohort 33
+# ![52465-5a0924aaaf6af2265c6bb823b7613658-medium_jpg](https://cloud.githubusercontent.com/assets/4304660/19450578/e5301a36-945e-11e6-8874-d9d19e057218.jpg)General Assembly Cohort 33
 
 #### Week 2 - More Javascript & the DOM
 
