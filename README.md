@@ -10,35 +10,35 @@
 **3:00pm - 4:30pm Module 4** | [Objects][1-1D]  | [3rd Party APIs][1-2D]  | [Geoquakes][1-3D]  | [Prototypal Inheritance][1-4D] |   [Project 0][1-5D]
 **Training / Office Hours**  |  |  | [Geoquakes][1-3E]   |   | [Project 0][1-5E]
 
-[1-1A]: https://github.com/sf-wdi-31/
-[1-1B]: https://github.com/sf-wdi-31/
-[1-1C]: https://github.com/sf-wdi-31/
-[1-1D]: https://github.com/sf-wdi-31/
-[1-1E]: https://github.com/sf-wdi-31/
+[1-1A]: https://github.com/sf-wdi-33/building-js-iterators-lab
+[1-1B]: https://github.com/sf-wdi-33/
+[1-1C]: https://github.com/sf-wdi-33/
+[1-1D]: https://github.com/sf-wdi-33/
+[1-1E]: https://github.com/sf-wdi-33/
 
-[1-2A]: https://github.com/sf-wdi-31/
-[1-2B]: https://github.com/sf-wdi-31/
-[1-2C]: https://github.com/sf-wdi-31/
-[1-2D]: https://github.com/sf-wdi-31/
-[1-2E]: https://github.com/sf-wdi-31/
+[1-2A]: https://github.com/sf-wdi-33/
+[1-2B]: https://github.com/sf-wdi-33/
+[1-2C]: https://github.com/sf-wdi-33/
+[1-2D]: https://github.com/sf-wdi-33/
+[1-2E]: https://github.com/sf-wdi-33/
 
-[1-3A]: https://github.com/sf-wdi-31/
-[1-3B]: https://github.com/sf-wdi-31/
-[1-3C]: https://github.com/sf-wdi-31/
-[1-3D]: https://github.com/sf-wdi-31/
-[1-3E]: https://github.com/sf-wdi-31/
+[1-3A]: https://github.com/sf-wdi-33/
+[1-3B]: https://github.com/sf-wdi-33/
+[1-3C]: https://github.com/sf-wdi-33/
+[1-3D]: https://github.com/sf-wdi-33/
+[1-3E]: https://github.com/sf-wdi-33/
 
-[1-4A]: https://github.com/sf-wdi-31/
-[1-4B]: https://github.com/sf-wdi-31/
-[1-4C]: https://github.com/sf-wdi-31/
-[1-4D]: https://github.com/sf-wdi-31/
-[1-4E]: https://github.com/sf-wdi-31/
+[1-4A]: https://github.com/sf-wdi-33/
+[1-4B]: https://github.com/sf-wdi-33/
+[1-4C]: https://github.com/sf-wdi-33/
+[1-4D]: https://github.com/sf-wdi-33/
+[1-4E]: https://github.com/sf-wdi-33/
 
-[1-5A]: https://github.com/sf-wdi-31/
-[1-5B]: https://github.com/sf-wdi-31/
-[1-5C]: https://github.com/sf-wdi-31/
-[1-5D]: https://github.com/sf-wdi-31/
-[1-5E]: https://github.com/sf-wdi-31/
+[1-5A]: https://github.com/sf-wdi-33/
+[1-5B]: https://github.com/sf-wdi-33/
+[1-5C]: https://github.com/sf-wdi-33/
+[1-5D]: https://github.com/sf-wdi-33/
+[1-5E]: https://github.com/sf-wdi-33/
 
 #### Week 1 - Fundamentals
 
@@ -50,34 +50,34 @@
 **3:00pm - 4:30pm Module 4** | [Github workflow][1-1D] | [My Personal Site][1-2D]  |   [JS Functions][1-3D] |  [Training: DOM & Events][1-4D] | [Tic tac toe][1-5D]   
 **Training / Office Hours**                | [Command Line Mystery][1-1E] | [HW: My personal site][1-2E] |  [Training: Functions][1-3E]  | [LOTR DOM Manipulation Lab(Alex)][1-4E]  | 
 
-[1-1A]: https://github.com/sf-wdi-31/schedule-33/orientation-deck.pdf "Orientation Deck"
-[1-1C]: https://github.com/sf-wdi-31/how-the-internet-works "How the Internet Works"
-[1-1D]: https://github.com/sf-wdi-31/git-github "Git and GitHub"
-[1-1E]: https://github.com/sf-wdi-31/clmystery "Command Line Mystery"
+[1-1A]: https://github.com/sf-wdi-33/schedule-33/orientation-deck.pdf "Orientation Deck"
+[1-1C]: https://github.com/sf-wdi-33/how-the-internet-works "How the Internet Works"
+[1-1D]: https://github.com/sf-wdi-33/git-github "Git and GitHub"
+[1-1E]: https://github.com/sf-wdi-33/clmystery "Command Line Mystery"
 
-[1-2A]: https://github.com/sf-wdi-31/kyrel "Kyrel"
-[1-2B]: https://github.com/sf-wdi-31/html-css-review "HTML && CSS"
-[1-2C]: https://github.com/sf-wdi-31/personal-portfolio "Personal Portfolio"
-[1-2D]: https://github.com/sf-wdi-31/personal-portfolio "Personal Portfolio"
-[1-2E]: https://github.com/sf-wdi-31/personal-portfolio "Personal Portfolio"
+[1-2A]: https://github.com/sf-wdi-33/kyrel "Kyrel"
+[1-2B]: https://github.com/sf-wdi-33/html-css-review "HTML && CSS"
+[1-2C]: https://github.com/sf-wdi-33/personal-portfolio "Personal Portfolio"
+[1-2D]: https://github.com/sf-wdi-33/personal-portfolio "Personal Portfolio"
+[1-2E]: https://github.com/sf-wdi-33/personal-portfolio "Personal Portfolio"
 
-[1-3A]: https://github.com/sf-wdi-31/js-data-types "JS Data Types"
-[1-3B]: https://github.com/sf-wdi-31/js-control-flow "Control FLow"
-[1-3D]: https://github.com/sf-wdi-31/js-functions "Functions"
-[1-3E]: https://github.com/sf-wdi-31/
+[1-3A]: https://github.com/sf-wdi-33/js-data-types "JS Data Types"
+[1-3B]: https://github.com/sf-wdi-33/js-control-flow "Control FLow"
+[1-3D]: https://github.com/sf-wdi-33/js-functions "Functions"
+[1-3E]: https://github.com/sf-wdi-33/
 
 
-[1-4A]: https://github.com/sf-wdi-31/chrome-dev-tools-and-debugger "Debugging with Chrome Dev Tools"
-[1-4B]: https://github.com/sf-wdi-31/
-[1-4C]: https://github.com/sf-wdi-31/
-[1-4D]: https://github.com/sf-wdi-31/
-[1-4E]: https://github.com/sf-wdi-31/
+[1-4A]: https://github.com/sf-wdi-33/chrome-dev-tools-and-debugger "Debugging with Chrome Dev Tools"
+[1-4B]: https://github.com/sf-wdi-33/
+[1-4C]: https://github.com/sf-wdi-33/
+[1-4D]: https://github.com/sf-wdi-33/
+[1-4E]: https://github.com/sf-wdi-33/
 
-[1-5A]: https://github.com/sf-wdi-31/
-[1-5B]: https://github.com/sf-wdi-31/
-[1-5C]: https://github.com/sf-wdi-31/
-[1-5D]: https://github.com/sf-wdi-31/
-[1-5E]: https://github.com/sf-wdi-31/
+[1-5A]: https://github.com/sf-wdi-33/
+[1-5B]: https://github.com/sf-wdi-33/
+[1-5C]: https://github.com/sf-wdi-33/
+[1-5D]: https://github.com/sf-wdi-33/
+[1-5E]: https://github.com/sf-wdi-33/
 
 
 #### Daily Schedule Overview
