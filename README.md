@@ -7,42 +7,41 @@
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:17am - 10:20am Module 1** | [Iterator Methods && Callbacks] [2-1A]| Algorithms | [Training/Handlebars][2-3A] | [OO JS][2-4A]  | Review
- **10:30am - 12:30pm Module 2** |[Iterator Methods && Callbacks] [2-1B]  |  [HTML Forms][2-2B] | [Training/Templating][2-3B]    | [OO JS][2-4B]  | Review
+ **9:17am - 10:20am Module 1** | [Iterator Methods && Callbacks] [2-1A]| Algorithms | [Handlebars Templating][2-3A] | [OO JS][2-4A]  | Review
+ **10:30am - 12:30pm Module 2** |[Iterator Methods && Callbacks] [2-1B]  |  [HTML Forms][2-2B] | [Geoquakes][2-3B]    | [OO JS][2-4B]  | Review
  **1:30pm - 2:50pm Module 3** | [Objects][2-1C]  |  [AJAX][2-2C] |   Outcomes | [OO JS][2-4C] | [Project 0 Intro][2-5C]
-**3:00pm - 4:30pm Module 4** | [Objects][2-1D]  | [3rd Party APIs][2-2D]  | [Geoquakes][2-3D]  | [Prototypal Inheritance][2-4D] |   [Project 0][2-5D]
-**Training / Office Hours**  |  |  | [Geoquakes][2-3E]   |   | [Project 0][2-5E]
+**3:00pm - 4:30pm Module 4** | [Objects][2-1D]  | [3rd Party APIs][2-2D]  | [Review	][2-3D]  | [Prototypal Inheritance][2-4D] |   [Project 0][2-5D]
+**Training / Office Hours**  |  | [Reading: Handlebars Templating][2-2E] | [Geoquakes && Spotify Handlebars][2-3E]   |   | [Project 0][2-5E]
 
 [2-1A]: https://github.com/sf-wdi-33/iterator-methods
 [2-1B]: https://github.com/sf-wdi-33/building-js-iterators-lab
 [2-1C]: https://github.com/sf-wdi-33/
 [2-1D]: https://github.com/sf-wdi-33/
-[2-1E]: https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week2.md
+[2-1E]: https://github.com/sf-wdi-33/
 
 [2-2A]: https://github.com/sf-wdi-33/
 [2-2B]: https://github.com/sf-wdi-33/html-forms
 [2-2C]: https://github.com/sf-wdi-33/ajax
 [2-2D]: https://github.com/sf-wdi-33/
-[2-2E]: https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week2.md
+[2-2E]: https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week2.md#day-2
 
 [2-3A]: https://github.com/sf-wdi-33/handlebars-client-side-templating
 [2-3B]: https://github.com/sf-wdi-33/handlebars-client-side-templating
 [2-3C]: https://github.com/sf-wdi-33/
 [2-3D]: https://github.com/sf-wdi-33/geoquakes
-[2-3E]: https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week2.md
+[2-3E]: https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week2.md#day-3
 
 [2-4A]: https://github.com/sf-wdi-33/js-insertion-sort
 [2-4B]: https://github.com/sf-wdi-33/js-oop-flower-power
 [2-4C]: https://github.com/sf-wdi-33/js-oop-flower-power
 [2-4D]: https://github.com/sf-wdi-33/
-[2-4E]: https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week2.md
+[2-4E]: https://github.com/sf-wdi-33/
 
 [2-5A]: https://github.com/sf-wdi-33/
 [2-5B]: https://github.com/sf-wdi-33/
 [2-5C]: https://github.com/sf-wdi-33/project-00
 [2-5D]: https://github.com/sf-wdi-33/project-00
-[2-5E]: https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week2.md
-
+[2-5E]: https://github.com/sf-wdi-33/project-00
 #### Week 1 - Fundamentals
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
