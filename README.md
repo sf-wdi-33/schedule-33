@@ -56,18 +56,18 @@
 [1-1A]: https://github.com/sf-wdi-33/schedule-33/orientation-deck.pdf "Orientation Deck"
 [1-1C]: https://github.com/sf-wdi-33/how-the-internet-works "How the Internet Works"
 [1-1D]: https://github.com/sf-wdi-33/git-github "Git and GitHub"
-[1-1E]: https://github.com/sf-wdi-33/clmystery "Command Line Mystery"
+[1-1E]: https://github.com/sf-wdi-33/schedule-33/homework/week1.md
 
 [1-2A]: https://github.com/sf-wdi-33/kyrel "Kyrel"
 [1-2B]: https://github.com/sf-wdi-33/html-css-review "HTML && CSS"
 [1-2C]: https://github.com/sf-wdi-33/personal-portfolio "Personal Portfolio"
 [1-2D]: https://github.com/sf-wdi-33/personal-portfolio "Personal Portfolio"
-[1-2E]: https://github.com/sf-wdi-33/personal-portfolio "Personal Portfolio"
+[1-2E]: https://github.com/sf-wdi-33/schedule-33/homework/week1.md
 
 [1-3A]: https://github.com/sf-wdi-33/js-data-types "JS Data Types"
 [1-3B]: https://github.com/sf-wdi-33/js-control-flow "Control FLow"
 [1-3D]: https://github.com/sf-wdi-33/dev-tools "Debugging with Chrome Dev Tools"
-[1-3E]: https://github.com/sf-wdi-33/
+[1-3E]: https://github.com/sf-wdi-33/schedule-33/homework/week1.md
 
 
 [1-4A]: https://github.com/sf-wdi-33/js-functions "Functions"
@@ -80,7 +80,7 @@
 [1-5B]: https://github.com/sf-wdi-33/bootstrap
 [1-5C]: https://github.com/sf-wdi-33/tic-tac-toe "Tic Tac Toe"
 [1-5D]: https://github.com/sf-wdi-33/tic-tac-toe "Tic Tac Toe"
-[1-5E]: https://github.com/sf-wdi-33/tic-tac-toe "Tic Tac Toe"
+[1-5E]: https://github.com/sf-wdi-33/schedule-33/homework/week1.md
 
 
 #### Daily Schedule Overview
