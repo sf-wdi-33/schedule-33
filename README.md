@@ -7,16 +7,16 @@
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:17am - 10:20am Module 1** | [Iterator Methods && Callbacks] [2-1A]| Algorithms | [Handlebars Templating][2-3A] | [OO JS][2-4A]  | Review
- **10:30am - 12:30pm Module 2** |[Iterator Methods && Callbacks] [2-1B]  |  [HTML Forms][2-2B] | [Geoquakes][2-3B]    | [OO JS][2-4B]  | Review
- **1:30pm - 2:50pm Module 3** | [Objects][2-1C]  |  [AJAX][2-2C] |   Outcomes | [OO JS][2-4C] | [Project 0 Intro][2-5C]
-**3:00pm - 4:30pm Module 4** | [Objects][2-1D]  | [3rd Party APIs][2-2D]  | [Review	][2-3D]  | [Prototypal Inheritance][2-4D] |   [Project 0][2-5D]
+ **9:17am - 10:20am Module 1** | [Iterator Methods && Callbacks (Jean)] [2-1A]| Algorithms (Jean)| [Handlebars Templating (Jean)][2-3A] | [Algorithms (Justin)][2-4A]  | Review (team)
+ **10:30am - 12:30pm Module 2** |[Iterator Methods && Callbacks (Jean)] [2-1B]  |  [HTML Forms (Jean)][2-2B] | [Geoquakes (team)][2-3B]    | [Object Oriented Programming (Justin)][2-4B]  | Review (team)
+ **1:30pm - 2:50pm Module 3** | [Objects (Justin)][2-1C]  |  [AJAX (Justin)][2-2C] |   Outcomes (Neda) | [Object Oriented Programming (Justin)][2-4C] | [Project 0 Intro (team)][2-5C]
+**3:00pm - 4:30pm Module 4** | [Objects (Justin)][2-1D]  | [3rd Party APIs (Justin)][2-2D]  | [Review (Ben)][2-3D]  | [Prototypal Inheritance (Jean)][2-4D] |   [Project 0 (team)][2-5D]
 **Training / Office Hours**  |  | [Reading: Handlebars Templating][2-2E] | [Geoquakes && Spotify Handlebars][2-3E]   |   | [Project 0][2-5E]
 
 [2-1A]: https://github.com/sf-wdi-33/iterator-methods
 [2-1B]: https://github.com/sf-wdi-33/building-js-iterators-lab
-[2-1C]: https://github.com/sf-wdi-33/
-[2-1D]: https://github.com/sf-wdi-33/
+[2-1C]: https://github.com/sf-wdi-33/js-objects
+[2-1D]: https://github.com/sf-wdi-33/js-objects
 [2-1E]: https://github.com/sf-wdi-33/
 
 [2-2A]: https://github.com/sf-wdi-33/
@@ -46,11 +46,11 @@
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:17am - 10:20am Module 1** | [Orientation][1-1A]|  [Kyrel][1-2A]                 |  [JS Data Types][1-3A]    | [Functions][1-4A]  | Personal Project Show & Tell
- **10:30am - 12:30pm Module 2** | Icebreakers / Values |   [HTML && CSS][1-2B]               |  [Control Flow][1-3B]  |   [Functions][1-4B] | [Bootstrap][1-5B]
- **1:30pm - 2:50pm Module 3** | [How The Internet Works][1-1C]  |  [My Personal Site][1-2C]  |   Outcomes | [DOM Manipulation][1-4C] | [Tic tac toe][1-5C]
-**3:00pm - 4:30pm Module 4** | [Github workflow][1-1D] | [My Personal Site][1-2D]  |   [Chrome Dev Tools & Review][1-3D] |  [DOM events][1-4D] | [Tic tac toe][1-5D]   
-**Training / Office Hours**                | [Command Line Mystery][1-1E] | [HW: My personal site][1-2E] |   | [Training: Functions && Training: DOM & Events][1-4E] | [Tic tac toe][1-5E]
+ **9:17am - 10:20am Module 1** | [Orientation][1-1A]|  [Kyrel (team)][1-2A]                 |  [JS Data Types (Jean)][1-3A]    | [Functions (Justin)][1-4A]  | Personal Project Show & Tell (team)
+ **10:30am - 12:30pm Module 2** | Icebreakers / Values |   [HTML && CSS (Jean)][1-2B]               |  [Control Flow (Jean)][1-3B]  |   [Functions (Justin)][1-4B] | [Bootstrap (Jean)][1-5B]
+ **1:30pm - 2:50pm Module 3** | [How The Internet Works (Jean)][1-1C]  |  [My Personal Site (Justin)][1-2C]  |   Outcomes (Neda) | [DOM Manipulation (Justin)][1-4C] | [Tic tac toe (team)][1-5C]
+**3:00pm - 4:30pm Module 4** | [Github workflow (Justin)][1-1D] | [My Personal Site (Justin)][1-2D]  |   [Chrome Dev Tools & Review (Ben)][1-3D] |  [DOM events (Jean)][1-4D] | [Tic tac toe (team)][1-5D]   
+**Training / Office Hours**                | [Command Line Mystery (Justin)][1-1E] | [HW: My personal site (Justin)][1-2E] |   | [Training: Functions && Training: DOM & Events ][1-4E] | [Tic tac toe][1-5E]
 
 [1-1A]: https://github.com/sf-wdi-33/schedule-33/orientation-deck.pdf "Orientation Deck"
 [1-1C]: https://github.com/sf-wdi-33/how-the-internet-works "How the Internet Works"
