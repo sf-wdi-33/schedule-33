@@ -47,11 +47,11 @@
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:17am - 10:20am Module 1** | [Orientation][1-1A]|  [Kyrel][1-2A]                 |  [JS Data Types][1-3A]    | [Chrome Dev Tools][1-4A]  | Personal Project Show & Tell
- **10:30am - 12:30pm Module 2** | Icebreakers / Values |   [HTML && CSS][1-2B]               |  [Control Flow][1-2B]  |  [Dom Manipulation][1-3B] | Review 
- **1:30pm - 2:50pm Module 3** | [How The Internet Works][1-1C]  |  [My Personal Site][1-2C]  |   Outcomes | [DOM Events][1-4C] | [Bootstrap][1-5C]
-**3:00pm - 4:30pm Module 4** | [Github workflow][1-1D] | [My Personal Site][1-2D]  |   [JS Functions][1-3D] |  [Training: DOM & Events][1-4D] | [Tic tac toe][1-5D]   
-**Training / Office Hours**                | [Command Line Mystery][1-1E] | [HW: My personal site][1-2E] |  [Training: Functions][1-3E]  |  | 
+ **9:17am - 10:20am Module 1** | [Orientation][1-1A]|  [Kyrel][1-2A]                 |  [JS Data Types][1-3A]    | [Functions][1-4A]  | Personal Project Show & Tell
+ **10:30am - 12:30pm Module 2** | Icebreakers / Values |   [HTML && CSS][1-2B]               |  [Control Flow][1-3B]  |   [Functions][1-4B] | [Bootstrap][1-5B]
+ **1:30pm - 2:50pm Module 3** | [How The Internet Works][1-1C]  |  [My Personal Site][1-2C]  |   Outcomes | [DOM Manipulation][1-4C] | [Tic tac toe][1-5C]
+**3:00pm - 4:30pm Module 4** | [Github workflow][1-1D] | [My Personal Site][1-2D]  |   [Chrome Dev Tools & Review][1-3D] |  [DOM events][1-4D] | [Tic tac toe][1-5D]   
+**Training / Office Hours**                | [Command Line Mystery][1-1E] | [HW: My personal site][1-2E] |  [Training: Functions][1-3E]  | [Training: Functions][1-4E1] && [Training: DOM & Events][1-4E2] | [Tic tac toe][1-5E]
 
 [1-1A]: https://github.com/sf-wdi-33/schedule-33/orientation-deck.pdf "Orientation Deck"
 [1-1C]: https://github.com/sf-wdi-33/how-the-internet-works "How the Internet Works"
@@ -66,32 +66,33 @@
 
 [1-3A]: https://github.com/sf-wdi-33/js-data-types "JS Data Types"
 [1-3B]: https://github.com/sf-wdi-33/js-control-flow "Control FLow"
-[1-3D]: https://github.com/sf-wdi-33/js-functions "Functions"
+[1-3D]: https://github.com/sf-wdi-33/dev-tools "Debugging with Chrome Dev Tools"
 [1-3E]: https://github.com/sf-wdi-33/
 
 
-[1-4A]: https://github.com/sf-wdi-33/dev-tools "Debugging with Chrome Dev Tools"
-[1-4B]: https://github.com/sf-wdi-33/dom-manipulation
-[1-4C]: https://github.com/sf-wdi-33/dom-events-jquery
-[1-4D]: https://github.com/sf-wdi-33/jquery-dom-lab
-[1-4E]: https://github.com/sf-wdi-33/
+[1-4A]: https://github.com/sf-wdi-33/js-functions "Functions"
+[1-4B]: https://github.com/sf-wdi-33/js-functions "Functions"
+[1-4C]: https://github.com/sf-wdi-33/dom-manipulation
+[1-4D]: https://github.com/sf-wdi-33/dom-events-jquery
+[1-4E1]: https://github.com/sf-wdi-33/functions-training
+[1-4E2]: https://github.com/sf-wdi-33/jquery-events-training
 
 [1-5A]: https://github.com/sf-wdi-33/
-[1-5B]: https://github.com/sf-wdi-33/
-[1-5C]: https://github.com/sf-wdi-33/bootstrap
+[1-5B]: https://github.com/sf-wdi-33/bootstrap
+[1-5C]: https://github.com/sf-wdi-33/tic-tac-toe "Tic Tac Toe"
 [1-5D]: https://github.com/sf-wdi-33/tic-tac-toe "Tic Tac Toe"
-[1-5E]: https://github.com/sf-wdi-33/
+[1-5E]: https://github.com/sf-wdi-33/tic-tac-toe "Tic Tac Toe"
 
 
 #### Daily Schedule Overview
 
 Time | Monday, Tuesday, Thursday  | Wednesday | Friday
 ----- | ------------------ | ----- | ----
-9:17 - 10:20  | Module 1   | Module 1     | Review
-10:30 - 12:30| Module 2   | Module 2     | Review
+9:17 - 10:20  | Module 1   | Module 1     | Module 1
+10:30 - 12:30| Module 2   | Module 2     | Module 2
 12:30 - 1:30 | Lunch         | Lunch          | Lunch
-1:30 - 2:50 | Module 3      | Outcomes   | Review
-3:00 - 4:30 | Module 4      | Module 3     | Begin Weekend Lab
+1:30 - 2:50 | Module 3      | Outcomes   | Module 3
+3:00 - 4:30 | Module 4      | IA Review    | Begin Weekend Lab
 4:30 - 5:00 | Office Hours   | Office Hours | Rest
 
 **Instructors**  
