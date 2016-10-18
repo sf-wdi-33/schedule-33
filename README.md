@@ -17,31 +17,31 @@
 [2-1B]: https://github.com/sf-wdi-33/building-js-iterators-lab
 [2-1C]: https://github.com/sf-wdi-33/
 [2-1D]: https://github.com/sf-wdi-33/
-[2-1E]: https://github.com/sf-wdi-33/
+[2-1E]: https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week2.md
 
 [2-2A]: https://github.com/sf-wdi-33/
 [2-2B]: https://github.com/sf-wdi-33/html-forms
 [2-2C]: https://github.com/sf-wdi-33/ajax
 [2-2D]: https://github.com/sf-wdi-33/
-[2-2E]: https://github.com/sf-wdi-33/
+[2-2E]: https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week2.md
 
 [2-3A]: https://github.com/sf-wdi-33/handlebars-client-side-templating
 [2-3B]: https://github.com/sf-wdi-33/handlebars-client-side-templating
 [2-3C]: https://github.com/sf-wdi-33/
 [2-3D]: https://github.com/sf-wdi-33/geoquakes
-[2-3E]: https://github.com/sf-wdi-33/geoquakes
+[2-3E]: https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week2.md
 
 [2-4A]: https://github.com/sf-wdi-33/js-insertion-sort
 [2-4B]: https://github.com/sf-wdi-33/js-oop-flower-power
 [2-4C]: https://github.com/sf-wdi-33/js-oop-flower-power
 [2-4D]: https://github.com/sf-wdi-33/
-[2-4E]: https://github.com/sf-wdi-33/
+[2-4E]: https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week2.md
 
 [2-5A]: https://github.com/sf-wdi-33/
 [2-5B]: https://github.com/sf-wdi-33/
 [2-5C]: https://github.com/sf-wdi-33/project-00
 [2-5D]: https://github.com/sf-wdi-33/project-00
-[2-5E]: https://github.com/sf-wdi-33/project-00
+[2-5E]: https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week2.md
 
 #### Week 1 - Fundamentals
 
