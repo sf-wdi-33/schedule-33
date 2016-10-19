@@ -1,7 +1,7 @@
 ![logo](https://cloud.githubusercontent.com/assets/4304660/19456424/3b4262e6-9476-11e6-801f-b810718da875.jpg)  
 #General Assembly Cohort 33  
 
-[Class Culture, Policies, & Procedures]()
+[Class Culture, Policies, & Procedures](https://github.com/sf-wdi-33/schedule-33/blob/master/how-tos/WDI%2033%20orientation.pdf)
 
 #### Week 2 - More Javascript & the DOM
 
