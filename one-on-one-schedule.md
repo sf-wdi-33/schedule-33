@@ -14,4 +14,4 @@ Time  | Monday    | Tuesday | Wednesday | Thursday     | Friday       |
 ----  | ------    | ------- | --------- | --------     | ---------    |
 4:15pm  |           | Emily   |           | Stephen      | Sophie       |
 4:30pm  |  Casey    | Daniel  |           | Jonathan     | Kevin        |
-4:45pm  |  Margaret | Sol     | Stephen   | Yurou (Kate) | Diane        |
+4:45pm  |  Margaret | Sol     |           | Yurou (Kate) | Diane        |
