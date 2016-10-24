@@ -4,14 +4,14 @@
 ### Jean's Group
 Time  | Monday | Tuesday | Wednesday | Thursday | Friday    |
 ----  | ------ | ------- | --------- | -------- | --------- |
-4:15  |        | Derry   |           | Star     | Yasuyoshi |
-4:30  |  Ben   | Dan K   |           | Emmanuel | Katie     |
-4:45  |  Kyle  | Martin  |           | Virginia | Vlad      |
+4:15pm  |        | Derry   |           | Star     | Yasuyoshi |
+4:30pm  |  Ben   | Dan K   |           | Emmanuel | Katie     |
+4:45pm  |  Kyle  | Martin  |           | Virginia | Vlad      |
 
 
 ### Justin's Group
 Time  | Monday    | Tuesday | Wednesday | Thursday     | Friday       |
 ----  | ------    | ------- | --------- | --------     | ---------    |
-4:15  |           | Emily   |           | Stephen      | Sophie       |
-4:30  |  Casey    | Daniel  |           | Jonathan     | Kevin        |
-4:45  |  Margaret | Sol     | Stephen   | Yurou (Kate) | Diane        |
+4:15pm  |           | Emily   |           | Stephen      | Sophie       |
+4:30pm  |  Casey    | Daniel  |           | Jonathan     | Kevin        |
+4:45pm  |  Margaret | Sol     | Stephen   | Yurou (Kate) | Diane        |
