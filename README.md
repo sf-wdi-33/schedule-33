@@ -66,7 +66,7 @@
 [1-3A]: https://github.com/sf-wdi-33/js-data-types "JS Data Types"
 [1-3B]: https://github.com/sf-wdi-33/js-control-flow "Control FLow"
 [1-3D]: https://github.com/sf-wdi-33/dev-tools "Debugging with Chrome Dev Tools"
-[1-3E]: https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week1.md
+[1-3E]: https://github.com/sf-wdi-33/problem-set-js-basics "Problem Set"
 
 
 [1-4A]: https://github.com/sf-wdi-33/js-functions "Functions"
