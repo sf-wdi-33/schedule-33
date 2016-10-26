@@ -50,7 +50,7 @@
  **10:30am - 12:30pm Module 2** | Icebreakers / Values |   [HTML && CSS (Jean)][1-2B]               |  [Control Flow (Jean)][1-3B]  |   [Functions (Justin)][1-4B] | [Bootstrap (Jean)][1-5B]
  **1:30pm - 2:50pm Module 3** | [How The Internet Works (Jean)][1-1C]  |  [My Personal Site (Justin)][1-2C]  |   Outcomes (Neda) | [DOM Manipulation (Justin)][1-4C] | [Tic tac toe (team)][1-5C]
 **3:00pm - 4:30pm Module 4** | [Github workflow (Justin)][1-1D] | [My Personal Site (Justin)][1-2D]  |   [Chrome Dev Tools & Review (Ben)][1-3D] |  [DOM events (Jean)][1-4D] | [Tic tac toe (team)][1-5D]   
-**Training / Office Hours**                | [Command Line Mystery (Justin)][1-1E] | [HW: My personal site (Justin)][1-2E] |   | [Training: Functions && Training: DOM & Events ][1-4E] | [Tic tac toe][1-5E]
+**Training / Office Hours**                | [Command Line Mystery (Justin)][1-1E] | [HW: My personal site (Justin)][1-2E] |  [Training: JS Control Flow Training][1-3E] | [Training: Functions && Training: DOM & Events ][1-4E] | [Tic tac toe][1-5E]
 
 [1-1A]: https://github.com/sf-wdi-33/schedule-33/orientation-deck.pdf "Orientation Deck"
 [1-1C]: https://github.com/sf-wdi-33/how-the-internet-works "How the Internet Works"
