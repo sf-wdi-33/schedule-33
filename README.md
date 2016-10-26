@@ -2,6 +2,50 @@
 #General Assembly Cohort 33  
 
 [Class Culture, Policies, & Procedures](https://github.com/sf-wdi-33/schedule-33/blob/master/how-tos/WDI%2033%20orientation.pdf)
+
+<!--
+#### Week 3 - Express, Routing and Mongo
+
+ Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
+----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
+ **9:17am - 10:20am Module 1** | Algorithms| Algorithms (Jean)| [Software Best Practices (Jean)][3-3A] | [Mongo/Mongoose Intro][3-4A]  | Veteran's Day
+ **10:30am - 12:30pm Module 2** |[Intro to express] [3-1B]  |  [ToDo App][3-2B] | [Mongoose Associations][3-3B]    | [Book App][3-4B]  | Veteran's Day
+ **1:30pm - 2:50pm Module 3** | [Express Params && Routes][3-1C]  |  [ToDo App][3-2C] |   Outcomes (Neda) | [Personal API/Heroku][3-4C] | Veteran's Day
+**3:00pm - 4:30pm Module 4** | [Training: Express Params and Routes][3-1D]  | [ToDo App][3-2D]  | [Book App Intro][3-3D]  | [Personal API][3-4D] |   Veteran's Day
+**Training / Office Hours**  |  | [Database Primer][3-2E] | [Training CRUD && Query Primer][3-3E]   | [Personal API][3-4E]  | [Personal API][3-5E]
+
+[3-1A]: https://github.com/sf-wdi-33/
+[3-1B]: https://github.com/sf-wdi-33/
+[3-1C]: https://github.com/sf-wdi-33/
+[3-1D]: https://github.com/sf-wdi-33/
+[3-1E]: https://github.com/sf-wdi-33/
+ 
+[3-2A]: https://github.com/sf-wdi-33/
+[3-2B]: https://github.com/sf-wdi-33/
+[3-2C]: https://github.com/sf-wdi-33/
+[3-2D]: https://github.com/sf-wdi-33/
+[3-2E]: https://github.com/sf-wdi-33/
+
+[3-3A]: https://github.com/sf-wdi-33/
+[3-3B]: https://github.com/sf-wdi-33/
+[3-3C]: https://github.com/sf-wdi-33/
+[3-3D]: https://github.com/sf-wdi-33/
+[3-3E]: https://github.com/sf-wdi-33/
+
+[3-4A]: v
+[3-4B]: https://github.com/sf-wdi-33/
+[3-4C]: https://github.com/sf-wdi-33/
+[3-4D]: https://github.com/sf-wdi-33/
+[3-4E]: https://github.com/sf-wdi-33/
+
+[3-5A]: https://github.com/sf-wdi-33/
+[3-5B]: https://github.com/sf-wdi-33/
+[3-5C]: https://github.com/sf-wdi-33/
+[3-5D]: https://github.com/sf-wdi-33/
+[3-5E]: https://github.com/sf-wdi-33/
+
+-->
+
 <!--
 #### Week 2 - More Javascript & the DOM
 
