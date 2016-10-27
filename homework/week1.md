@@ -10,7 +10,7 @@
 - [Training: Control Flow](https://github.com/sf-wdi-33/js-control-flow-training) - Finish the training repo to the best of your ability.  
 
 ##Day 4
-- [Training: Functions](https://github.com/sf-wdi-33/functions-training)
+- [Training: Functions](https://github.com/sf-wdi-33/functions-exercises)
 - [Training: DOM events](https://github.com/sf-wdi-33/jquery-dom-lab)
 
 ##Day 5
