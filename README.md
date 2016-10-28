@@ -97,7 +97,7 @@
 **3:00pm - 4:30pm Module 4** | [Github workflow (Justin)][1-1D] | [My Personal Site (Justin)][1-2D]  |   [Chrome Dev Tools & Review (Ben)][1-3D] |  [DOM events (Jean)][1-4D] | [Tic tac toe (team)][1-5D]   
 **Training / Office Hours**                | [Command Line Mystery (Justin)][1-1E] | [HW: My personal site (Justin)][1-2E] |  [Training: JS Control Flow Training][1-3E] | [Training: Functions && Training: DOM & Events ][1-4E] | [Tic tac toe][1-5E]
 
-[1-1A]: https://github.com/sf-wdi-33/schedule-33/orientation-deck.pdf "Orientation Deck"
+[1-1A]: https://github.com/sf-wdi-33/orientation-deck/blob/master/WDI%2033%20orientation%20deck.pdf "Orientation Deck"
 [1-1C]: https://github.com/sf-wdi-33/how-the-internet-works "How the Internet Works"
 [1-1D]: https://github.com/sf-wdi-33/git-github "Git and GitHub"
 [1-1E]: https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week1.md
