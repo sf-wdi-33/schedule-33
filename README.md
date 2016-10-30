@@ -46,7 +46,7 @@
 
 -->
 
-<!--
+
 #### Week 2 - More Javascript & the DOM
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
@@ -86,7 +86,7 @@
 [2-5C]: https://github.com/sf-wdi-33/project-00
 [2-5D]: https://github.com/sf-wdi-33/project-00
 [2-5E]: https://github.com/sf-wdi-33/project-00
--->
+
 #### Week 1 - Fundamentals
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
