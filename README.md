@@ -51,7 +51,7 @@
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:17am - 10:20am Module 1** | [Iterator Methods && Callbacks (Jean)] [2-1A]| Algorithms (Jean)| [Handlebars Templating (Jean)][2-3A] | [Algorithms (Justin)][2-4A]  | Review (team)
+ **9:17am - 10:20am Module 1** | [Iterator Methods && Callbacks (Jean)] [2-1A]| Algorithms (Jean)| [Handlebars Templating (Justin)][2-3A] | [Algorithms (Justin)][2-4A]  | Review (team)
  **10:30am - 12:30pm Module 2** |[Iterator Methods && Callbacks (Jean)] [2-1B]  |  [HTML Forms (Jean)][2-2B] | [Geoquakes (team)][2-3B]    | [Object Oriented Programming (Justin)][2-4B]  | Review (team)
  **1:30pm - 2:50pm Module 3** | [Objects (Justin)][2-1C]  |  [AJAX (Justin)][2-2C] |   Outcomes (Neda) | [Object Oriented Programming (Justin)][2-4C] | [Project 0 Intro (team)][2-5C]
 **3:00pm - 4:30pm Module 4** | [Objects (Justin)][2-1D]  | [3rd Party APIs (Justin)][2-2D]  | [Review (Ben)][2-3D]  | [Prototypal Inheritance (Jean)][2-4D] |   [Project 0 (team)][2-5D]
