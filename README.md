@@ -55,7 +55,7 @@
  **10:30am - 12:30pm Module 2** |[Iterator Methods && Callbacks (Jean)] [2-1B]  |  [HTML Forms][2-2B] | [Geoquakes (team)][2-3B]    | [Object Oriented Programming (Justin)][2-4B]  | Review (team)
  **1:30pm - 2:50pm Module 3** | [Objects (Justin)][2-1C]  |  [AJAX (Justin)][2-2C] |   Outcomes (Neda) | [Object Oriented Programming (Justin)][2-4C] | [Project 0 Intro (team)][2-5C]
 **3:00pm - 4:30pm Module 4** | [Objects (Justin)][2-1D]  | [3rd Party APIs (Justin)][2-2D]  | [Review (Ben)][2-3D]  | [Prototypal Inheritance (Jean)][2-4D] |   [Project 0 (team)][2-5D]
-**Training / Office Hours**  | [Objects Training Set][2-1E | [Reading: Handlebars Templating][2-2E] | [Geoquakes && Spotify Handlebars][2-3E]   |   | [Project 0][2-5E]
+**Training / Office Hours**  | [Objects Training Set][2-1E] | [Reading: Handlebars Templating][2-2E] | [Geoquakes && Spotify Handlebars][2-3E]   |   | [Project 0][2-5E]
 
 [2-1A]: https://github.com/sf-wdi-33/iterator-methods
 [2-1B]: https://github.com/sf-wdi-33/building-js-iterators-lab
