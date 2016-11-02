@@ -70,7 +70,7 @@
 [2-2E]: https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week2.md#day-2
 
 [2-3A]: https://github.com/sf-wdi-33/handlebars-client-side-templating
-[2-3B]: https://github.com/sf-wdi-33/handlebars-client-side-templating
+[2-3B]: https://github.com/sf-wdi-33/geoquakes
 [2-3C]: https://github.com/sf-wdi-33/
 [2-3D]: https://github.com/sf-wdi-33/geoquakes
 [2-3E]: https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week2.md#day-3
