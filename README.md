@@ -5,8 +5,7 @@
 
 
 #### Week 3 - Express, Routing and Mongo
-<!--
-<table><thead>
+<!-- <table><thead>
 <tr>
 <th>Time</th>
 <th>Day 1</th>
@@ -18,7 +17,7 @@
 </thead><tbody>
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
-<td>Algorithms (Justin)</td>
+<td>>Algorithms (Justin)</td>
 <td>Software best practices (Jean)</td>
 <td><a href="https://github.com/sf-wdi-33/js-intro-mongoDB">Mongoose & MongoDB (Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-33/mongoose-books-app">Book App</a></td>
@@ -26,35 +25,35 @@
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
-<td><a href="https://github.com/sf-wdi-33/">Express Library</a></td>
-<td><a href="https://github.com/sf-wdi-33/">LAB: ToDo</a></td>
-<td><a href="https://github.com/sf-wdi-33/">Mongoose Associations (JC)</a></td>
-<td><a href="https://github.com/sf-wdi-33/">Book App</a></td>
+<td><a href="https://github.com/sf-wdi-33/js-intro-express">Express Library</a></td>
+<td><a href="https://github.com/sf-wdi-33/test-driven-todo-api">LAB: ToDo</a></td>
+<td><a href="https://github.com/sf-wdi-33/mongoose-associations">Mongoose Associations (JC)</a></td>
+<td><a href="https://github.com/sf-wdi-33/mongoose-books-app">Book App</a></td>
 <td>Veteran's Day (OFF)</td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
-<td><a href="https://github.com/sf-wdi-33/js-objects">Express Parameters && Routes (Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-33/ajax">Elections</a></td>
+<td><a href="https://github.com/sf-wdi-33/express-dynamic-routes">Express Parameters && Routes (Jean)</a></td>
+<td>Elections (Early Dismissal)</a></td>
 <td>Outcomes (Neda)</td>
-<td><a href="https://github.com/sf-wdi-33/js-oop-flower-power">Personal API && Heroku Integration (Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-33/express-personal-api">Personal API && Heroku Integration (Justin)</a></td>
 <td>Veteran's Day (OFF)</td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
-<td><a href="https://github.com/sf-wdi-33/js-objects">Express Parameters && Routes (Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-33/">Elections (Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-33/geoquakes">Survey && Book App</a></td>
-<td><a href="https://github.com/sf-wdi-33/js-oop-flower-power">Personal API</a></td>
+<td><a href="https://github.com/sf-wdi-33/express-dynamic-routes">Express Parameters && Routes (Jean)</a></td>
+<td>Elections (Early Dismissal)</a></td>
+<td><a href="https://github.com/sf-wdi-33/mongoose-books-apps">Survey && Book App</a></td>
+<td><a href="https://github.com/sf-wdi-33/express-personal-api">Personal API</a></td>
 <td>Veteran's Day (OFF)</td>
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week2.md#day-1">Express Params && Routest</a></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week2.md#day-2">Database pre-reading</a></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week2.md#day-3">CRUD && The Query</a></td>
-<td>Personal API</td>
-<td>Personal API</td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week3.md#day-1">Express Params && Routest</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week3.md#day-2">Finish ToDo & Database pre-reading</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week3.md#day-3">CRUD && The Query</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week3.md#day-4">Personal API</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week3.md#day-5">Personal API</a></td>
 </tr>
 </tbody></table>
 -->
