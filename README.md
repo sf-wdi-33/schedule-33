@@ -17,7 +17,7 @@
 </thead><tbody>
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
-<td>>Show and Tell of Project 0 (Games)</td>
+<td>Show and Tell of Project 0 (Games)</td>
 <td><a href="https://github.com/sf-wdi-33/software-development-best-practices">Software best practices (Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-33/js-intro-mongoDB">Mongoose & MongoDB (Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-33/mongoose-books-app">Book App</a></td>
