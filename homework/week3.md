@@ -7,6 +7,8 @@
 
 ##Day 2
 
+- Read over the [Mongoose Docs](http://mongoosejs.com/docs/) and check out the syntax used to make a new document, save the document, and find documents later. You don't have to memorize the methods now, but look over them.
+
 ##Day 3
 
 ##Day 4
