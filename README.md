@@ -25,7 +25,7 @@
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
-<td><a href="https://github.com/sf-wdi-33/js-intro-express">Express Library</a></td>
+<td><a href="https://github.com/sf-wdi-33/js-intro-express(Justin)">Express Library</a></td>
 <td><a href="https://github.com/sf-wdi-33/test-driven-todo-api">LAB: ToDo</a></td>
 <td><a href="https://github.com/sf-wdi-33/mongoose-associations">Mongoose Associations (JC)</a></td>
 <td><a href="https://github.com/sf-wdi-33/mongoose-books-app">Book App</a></td>
@@ -49,7 +49,7 @@
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week3.md#day-1">Express Params && Routest</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week3.md#day-1">Express Params && Routes</a></td>
 <td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week3.md#day-2">Finish ToDo & Database pre-reading</a></td>
 <td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week3.md#day-3">CRUD && The Query</a></td>
 <td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week3.md#day-4">Personal API</a></td>
