@@ -5,7 +5,7 @@
 
 
 #### Week 3 - Express, Routing and Mongo
-<!-- <table><thead>
+<table><thead>
 <tr>
 <th>Time</th>
 <th>Day 1</th>
@@ -56,7 +56,7 @@
 <td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week3.md#day-5">Personal API</a></td>
 </tr>
 </tbody></table>
--->
+
 #### Week 2 - More Javascript & the DOM
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
