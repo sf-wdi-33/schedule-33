@@ -43,7 +43,7 @@
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
 <td><a href="https://github.com/sf-wdi-33/express-dynamic-routes">Express Parameters && Routes (Jean)</a></td>
 <td>Elections (Early Dismissal)</a></td>
-<td><a href="https://github.com/sf-wdi-33/mongoose-books-apps">Survey && Book App</a></td>
+<td><a href="https://github.com/sf-wdi-33/mongoose-books-app">Survey && Book App</a></td>
 <td><a href="https://github.com/sf-wdi-33/express-personal-api">Personal API</a></td>
 <td>Veteran's Day (OFF)</td>
 </tr>
