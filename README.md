@@ -2,7 +2,60 @@
 #General Assembly Cohort 33  
 
 [Class Culture, Policies, & Procedures](https://github.com/sf-wdi-33/schedule-33/blob/master/how-tos/WDI%2033%20orientation.pdf)
-
+<!--
+#### Week 4 - Tunely/Project 1
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day  5</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><strong>9:17am - 10:20am Module 1</strong></td>
+<td>Review/Algorithms</td>
+<td><a href="https://github.com/sf-wdi-33/tunely">Tunely</a></td>
+<td>Big-O</td>
+<td>Binary Search</td>
+<td>Bubble Sort</td>
+</tr>
+<tr>
+<td><strong>10:30am - 12:30pm Module 2</strong></td>
+<td><a href="https://github.com/sf-wdi-33/tunely">Tunely Intro</a></td>
+<td><a href="https://github.com/sf-wdi-33/tunely">Tunely wrap-up</a></td>
+<td>Project 1</td>
+<td>Project 1</td>
+<td>Project 1</td>
+</tr>
+<tr>
+<td><strong>1:30pm - 2:50pm Module 3</strong></td>
+<td><a href="https://github.com/sf-wdi-33/tunely">Tunely</a></td>
+<td>GitHub Collaboration/Project 1 Intro</a></td>
+<td>Outcomes (Neda)</td>
+<td>Project 1</td>
+<td>Project 1</td>
+</tr>
+<tr>
+<td><strong>3:00pm - 4:30pm Module 4</strong></td>
+<td><a href="https://github.com/sf-wdi-33/tunely">Tunely</a></td>
+<td>Project 1 approvals</a></td>
+<td>Project 1</td>
+<td>Project 1</td>
+<td>Project 1</td>
+</tr>
+<tr>
+<td><strong>Training / Office Hours</strong></td>
+<td><a href="https://github.com/sf-wdi-33/tunely">Tunely</a></td>
+<td>Project 1</td>
+<td>Project 1</td>
+<td>Project 1</td>
+<td>Project 1</td>
+</tr>
+</tbody></table>
+-->
 
 #### Week 3 - Express, Routing and Mongo
 <table><thead>
