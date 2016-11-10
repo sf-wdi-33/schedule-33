@@ -76,7 +76,7 @@
 <td><a href="https://github.com/sf-wdi-33/tunely">Tunely</a></td>
 <td>Bubble Sort(Justin)</td>
 <td>Binary Search(Jean)</td>
-<td>Big-O(Jean)</td>
+<td><a href="https://github.com/sf-wdi-33/algorithm-complexity-and-big-o">Big-O(Jean)</a></td>
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
