@@ -72,11 +72,11 @@
 </thead><tbody>
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
-<td>Review/Algorithms</td>
+<td>LinkedLists(Justin)</td>
 <td><a href="https://github.com/sf-wdi-33/tunely">Tunely</a></td>
-<td>Big-O</td>
-<td>Binary Search</td>
-<td>Bubble Sort</td>
+<td>Bubble Sort(Justin)</td>
+<td>Binary Search(Jean)</td>
+<td>Big-O(Jean)</td>
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
