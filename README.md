@@ -75,7 +75,7 @@
 <td><a href="https://github.com/SF-WDI-LABS/js-linked-list/blob/master/README.md">LinkedLists</a>(Justin)</td>
 <td><a href="https://github.com/sf-wdi-33/tunely">Tunely</a></td>
 <td>Bubble Sort(Justin)</td>
-<td>Binary Search(Jean)</td>
+<td><a href="https://github.com/sf-wdi-33/binary-search/blob/master/README.md">Binary Search(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-33/algorithm-complexity-and-big-o">Big-O(Jean)</a></td>
 </tr>
 <tr>
