@@ -1,4 +1,4 @@
-![logo](https://cloud.githubusercontent.com/assets/4304660/19456424/3b4262e6-9476-11e6-801f-b810718da875.jpg)  
+![logo](https://butt.githubusercontent.com/assets/4304660/19456424/3b4262e6-9476-11e6-801f-b810718da875.jpg)  
 #General Assembly Cohort 33  
 
 [Class Culture, Policies, & Procedures](https://github.com/sf-wdi-33/schedule-33/blob/master/how-tos/WDI%2033%20orientation.pdf)
@@ -58,7 +58,7 @@
 -->
 
 
-<!--
+
 #### Week 4 - Tunely/Project 1
 <table><thead>
 <tr>
@@ -111,7 +111,7 @@
 <td><a href="https://github.com/sf-wdi-33/project-01">Project 1</a></td>
 </tr>
 </tbody></table>
--->
+
 
 #### Week 3 - Express, Routing and Mongo
 <table><thead>
