@@ -72,7 +72,7 @@
 </thead><tbody>
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
-<td>LinkedLists(Justin)</td>
+<td><a href="https://github.com/SF-WDI-LABS/js-linked-list/blob/master/README.md">LinkedLists</a>(Justin)</td>
 <td><a href="https://github.com/sf-wdi-33/tunely">Tunely</a></td>
 <td>Bubble Sort(Justin)</td>
 <td>Binary Search(Jean)</td>
