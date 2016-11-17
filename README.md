@@ -91,7 +91,7 @@
 <td><a href="https://github.com/sf-wdi-33/tunely">Tunely</a></td>
 <td>GitHub Collaboration/Project 1 Intro</a></td>
 <td>Outcomes (Neda)</td>
-<td><a href="https://github.com/sf-wdi-33/project-01">Project 1</a></td>
+<td><a href="https://github.com/sf-wdi-33/express-simple-auth">Authorization</a></td>
 <td><a href="https://github.com/sf-wdi-33/project-01">Project 1</a></td>
 </tr>
 <tr>
