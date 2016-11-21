@@ -41,7 +41,7 @@
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
-<td>Holiday</td>
+<td>Project 1</td>
 <td>Holiday</td>
 <td>Holiday</td>
 <td>Holiday</td>
@@ -50,7 +50,7 @@
 <tr>
 <td><strong>Training / Office Hours</strong></td>
 <td><a href="https://github.com/sf-wdi-33/tunely">Tunely</a></td>
-<td>Holiday</td>
+<td>Project 1</td>
 <td>Holiday</td>
 <td>Holiday</td>
 </tr>
