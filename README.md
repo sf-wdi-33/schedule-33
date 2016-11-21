@@ -3,7 +3,7 @@
 
 [Class Culture, Policies, & Procedures](https://github.com/sf-wdi-33/schedule-33/blob/master/how-tos/WDI%2033%20orientation.pdf)
 
-<!--
+
 #### Week 5 - Project 1 & Turkeys
 <table><thead>
 <tr>
@@ -55,7 +55,6 @@
 <td>Holiday</td>
 </tr>
 </tbody></table>
--->
 
 
 
