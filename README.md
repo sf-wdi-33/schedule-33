@@ -49,8 +49,8 @@
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
-<td><a href="https://github.com/sf-wdi-33/tunely">Tunely</a></td>
-<td>Project 1</td>
+<td>Project 1</a></td>
+<td>Holiday</td>
 <td>Holiday</td>
 <td>Holiday</td>
 </tr>
