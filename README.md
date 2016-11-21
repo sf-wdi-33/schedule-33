@@ -42,7 +42,7 @@
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
 <td>Holiday</td>
-<td>Project 1 approvals</a></td>
+<td>Holiday</td>
 <td>Holiday</td>
 <td>Holiday</td>
 <td>Holiday</td>
