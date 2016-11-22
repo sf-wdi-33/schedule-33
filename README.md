@@ -3,6 +3,62 @@
 
 [Class Culture, Policies, & Procedures](https://github.com/sf-wdi-33/schedule-33/blob/master/how-tos/WDI%2033%20orientation.pdf)
 
+<!--
+
+#### Week 6 - Express, Routing and Mongo
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day  5</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><strong>9:17am - 10:20am Module 1</strong></td>
+<td><a href="https://github.com/sf-wdi-33/intro-angular">Angular intro(Jean)</a></td>
+<td>$http create and read(Justin)</td>
+<td>Algorithm</td>
+<td>Algorithm</td>
+<td><a href="https://github.com/sf-wdi-33/tunely-angular">Tunely Angular sprint 4/5</a></td>
+</tr>
+<tr>
+<td><strong>10:30am - 12:30pm Module 2</strong></td>
+<td>Directives and Expressions (Justin)</td>
+<td><a href="https://github.com/sf-wdi-33/tunely-angular">$http create and read with Tunely</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/angular-ngRoute">Client side routing(Jean)</a></td>
+<td>Review(Justin)</td>
+<td><a href="https://github.com/sf-wdi-33/tunely-angular">Tunely Angular sprint 4/5</a></td>
+</tr>
+<tr>
+<td><strong>1:30pm - 2:50pm Module 3</strong></td>
+<td><a href="https://github.com/sf-wdi-33/angular_hangman_lab">HAngular(Jean)</a></td>
+<td>$http update and delete(Jean)</td>
+<td>Outcomes (Neda)</td>
+<td>Book App(Justin)</td>
+<td><a href="https://github.com/sf-wdi-33/angular-custom-directives">Custom Directives(Cards against Humanity)(Jean)</a></td>
+</tr>
+<tr>
+<td><strong>3:00pm - 4:30pm Module 4</strong></td>
+<td><a href="https://github.com/sf-wdi-33/angular_hangman_lab">HAngular(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-33/tunely-angular">$http update and delete with Tunely</a></td>
+<td><a href="https://github.com/sf-wdi-33/tunely-angular">Client-side routing with Tunely</a></td>
+<td>Book App</td>
+<td><a href="https://github.com/sf-wdi-33/angular-custom-directives">Custom Directives(Cards against Humanity)(Jean)</a></td>
+</tr>
+<tr>
+<td><strong>Training / Office Hours</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+
+-->
 
 #### Week 5 - Project 1 & Turkeys
 <table><thead>
