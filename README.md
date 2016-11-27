@@ -5,7 +5,7 @@
 
 <!--
 
-#### Week 6 - Express, Routing and Mongo
+#### Week 6 - Angular
 <table><thead>
 <tr>
 <th>Time</th>
