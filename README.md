@@ -35,7 +35,7 @@
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
 <td><a href="https://github.com/sf-wdi-33/angular_hangman_lab">HAngular(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-31/ng-read-create">$http update and delete(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-33/ng-update-delete">$http update and delete(Jean)</a></td>
 <td>Outcomes (Neda)</td>
 <td>Book App(Justin)</td>
 <td><a href="https://github.com/sf-wdi-33/angular-custom-directives">Custom Directives(Cards against Humanity)(Jean)</a></td>
