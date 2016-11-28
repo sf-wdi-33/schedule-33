@@ -26,7 +26,7 @@
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
-<td>Directives and Expressions (Justin)</td>
+<td><a href="https://github.com/sf-wdi-33/angular_directives_lab">Native Directives and You (Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-33/tunely-angular">$http create and read with Tunely</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/angular-ngRoute">Client side routing(Jean)</a></td>
 <td>Review(Justin)</td>
