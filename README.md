@@ -19,7 +19,7 @@
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
 <td><a href="https://github.com/sf-wdi-33/intro-angular">Angular intro(Jean)</a></td>
-<td>$http create and read(Justin)</td>
+<td><a href="https://github.com/sf-wdi-33/ng-read-create">$http create and read(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-33/js-algorithms-drills/tree/master/stacks-and-queues">Algorithm (Stacks)</a></td>
 <td><a href="https://github.com/sf-wdi-33/js-algorithms-drills/tree/master/stacks-and-queues">Algorithm (Queues)</a></td>
 <td><a href="https://github.com/sf-wdi-33/tunely-angular">Tunely Angular sprint 4/5</a></td>
