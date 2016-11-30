@@ -7,10 +7,10 @@
 - [Finish up CR and UD for Tunely Angular](https://github.com/sf-wdi-33/tunely-angular)
 
 ##Day 3
-- [Tunely Angular sprints 4/5](https://github.com/sf-wdi-33/tunely-angular)
+- [ColorMeAngular](https://github.com/sf-wdi-33/color-me-angular)
 
 ##Day 4
-- 
+- [Finish up remaining Tunely Angular sprints 4/5](https://github.com/sf-wdi-33/tunely-angular)
 
 ##Day 5
 - 
