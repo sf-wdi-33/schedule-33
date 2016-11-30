@@ -2,6 +2,61 @@
 #General Assembly Cohort 33  
 
 [Class Culture, Policies, & Procedures](https://github.com/sf-wdi-33/schedule-33/blob/master/how-tos/WDI%2033%20orientation.pdf)
+<!--
+#### Week 7 - Ruby
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day  5</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><strong>9:17am - 10:20am Module 1</strong></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33">Ruby Intro(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33">Ruby Methods(Justin)</a></td>
+<td><a "https://github.com/sf-wdi-33/schedule-33">Ruby OOP(Jean)</a></td>
+<td><a "https://github.com/sf-wdi-33/schedule-33">RSpec(Justin)</a></td>
+<td>Ruby Review/Algorithm</td>
+</tr>
+<tr>
+<td><strong>10:30am - 12:30pm Module 2</strong></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33">Ruby Intro</a></td>
+<td><a "https://github.com/sf-wdi-33/schedule-33">Ruby Methods(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33">Ruby OOP/cars</a></td>
+<td>RSpec</td>
+<td><a "https://github.com/sf-wdi-33/schedule-33">HTTParty?(Justin)</a></td>
+</tr>
+<tr>
+<td><strong>1:30pm - 2:50pm Module 3</strong></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33">Idomatic Ruby(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33">Ruby Methods cont'd</a></td>
+<td>Outcomes (Neda)</td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33">Go Fish(both)</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33">Wheel of Fortune(both)</a></td>
+</tr>
+<tr>
+<td><strong>3:00pm - 4:30pm Module 4</strong></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33">Training: Ruby</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33">Ruby Method Drills</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33">Ruby OOP</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33">Go Fish cont'd</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33">Wheel of Fortune cont'd</a></td>
+</tr>
+<tr>
+<td><strong>Training / Office Hours</strong></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week6.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week6.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week6.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week6.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week6.md">Homework</a></td>
+</tr>
+</tbody></table>
+
+-->
 
 #### [Angular Style Guide](https://github.com/sf-wdi-33/angular_style_guide)
 
