@@ -85,7 +85,7 @@
 <td><a href="https://github.com/sf-wdi-33/tunely-angular">$http create and read with Tunely</a></td>
 <td><a href="https://github.com/sf-wdi-33/angular-ngRoute">Client side routing(Jean)</a></td>
 <td>Review(Justin)</td>
-<td><a href="https://github.com/sf-wdi-33/angular-custom-directives">Custom Directives(Cards against Humanity)(Jean)</a></td>
+<td>Algorithms/Review</td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
