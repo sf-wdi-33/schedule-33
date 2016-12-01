@@ -84,7 +84,7 @@
 <td><a href="https://github.com/sf-wdi-33/angular_directives_lab">Native Directives and You (Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-33/tunely-angular">$http create and read with Tunely</a></td>
 <td><a href="https://github.com/sf-wdi-33/angular-ngRoute">Client side routing(Jean)</a></td>
-<td>Review(Justin)</td>
+<td><a href="https://github.com/sf-wdi-33/angular-books-crud-lab">Book App(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-33/angular-custom-directives">Custom Directives(Cards against Humanity)(Jean)</a></td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@
 <td><a href="https://github.com/sf-wdi-33/angular_hangman_lab">HAngular(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-33/ng-update-delete">$http update and delete(Jean)</a></td>
 <td>Outcomes (Neda)</td>
-<td>Book App(Justin)</td>
+<td><a href="https://github.com/sf-wdi-33/angular-books-crud-lab">Book App(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-33/angular-custom-directives">Custom Directives(Cards against Humanity)(Jean)</a></td>
 </tr>
 <tr>
@@ -100,7 +100,7 @@
 <td><a href="https://github.com/sf-wdi-33/angular_hangman_lab">HAngular(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-33/tunely-angular">$http update and delete with Tunely</a></td>
 <td><a href="https://github.com/sf-wdi-33/tunely-angular">Client-side routing with Tunely</a></td>
-<td>Book App</td>
+<td><a href="https://github.com/sf-wdi-33/angular-books-crud-lab">Book App</a></td>
 <td><a href="https://github.com/sf-wdi-33/angular-custom-directives">Custom Directives(Cards against Humanity)(Jean)</a></td>
 </tr>
 <tr>
