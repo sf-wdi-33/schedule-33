@@ -93,7 +93,7 @@
 <td><a href="https://github.com/sf-wdi-33/ng-update-delete">$http update and delete(Jean)</a></td>
 <td>Outcomes (Neda)</td>
 <td><a href="https://github.com/sf-wdi-33/angular-books-crud-lab">Book App(Justin)</a></td>
-<td>Algorithms</td>
+<td><a href="https://github.com/sf-wdi-33/js-binary-search-tree">Algorithms</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
