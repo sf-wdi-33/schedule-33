@@ -77,7 +77,7 @@
 <td><a href="https://github.com/sf-wdi-33/ng-read-create">$http create and read(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-33/js-algorithms-drills/tree/master/stacks-and-queues">Algorithms(Stacks and Queues)</a></td>
 <td><a href="https://github.com/sf-wdi-33/js-algorithms-drills/tree/master/stacks-and-queues">Algorithm(Stacks and Queues)</a></td>
-<td>Algorithms/Review</td>
+<td><a href="https://github.com/sf-wdi-33/js-algorithms-drills/tree/master/stacks-and-queues">Algorithm(Stacks and Queues)</a></td>
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
