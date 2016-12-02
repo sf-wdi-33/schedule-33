@@ -93,7 +93,7 @@
 <td><a href="https://github.com/sf-wdi-33/ng-update-delete">$http update and delete(Jean)</a></td>
 <td>Outcomes (Neda)</td>
 <td><a href="https://github.com/sf-wdi-33/angular-books-crud-lab">Book App(Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-33/angular-custom-directives">Custom Directives(Cards against Humanity)(Jean)</a></td>
+<td><td>Algorithms</td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
@@ -101,7 +101,7 @@
 <td><a href="https://github.com/sf-wdi-33/tunely-angular">$http update and delete with Tunely</a></td>
 <td><a href="https://github.com/sf-wdi-33/tunely-angular">Client-side routing with Tunely</a></td>
 <td><a href="https://github.com/sf-wdi-33/angular-books-crud-lab">Book App</a></td>
-<td><a href="https://github.com/sf-wdi-33/angular-custom-directives">Custom Directives(Cards against Humanity)(Jean)</a></td>
+<td>Algorithms</td>
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
