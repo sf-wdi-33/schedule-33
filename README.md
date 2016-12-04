@@ -17,14 +17,14 @@
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
 <td><a href="https://github.com/sf-wdi-33/intro-ruby">Ruby Intro(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-33/intro-ruby">Ruby Methods(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33">Ruby Methods(Justin)</a></td>
 <td><a "https://github.com/SF-WDI-LABS/ruby-oop">Ruby OOP(Jean)</a></td>
 <td><a "https://github.com/sf-wdi-33/schedule-33">RSpec(Justin)</a></td>
 <td>Ruby Review/Algorithm</td>
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33">Ruby Intro</a></td>
+<td><a href="https://github.com/sf-wdi-33/intro-ruby">Ruby Intro</a></td>
 <td><a "https://github.com/sf-wdi-33/schedule-33">Ruby Methods(Justin)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/ruby-oop">Ruby OOP/cars</a></td>
 <td>RSpec</td>
