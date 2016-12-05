@@ -48,11 +48,11 @@
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week6.md">Homework</a></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week6.md">Homework</a></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week6.md">Homework</a></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week6.md">Homework</a></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week6.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week7.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week7.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week7.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week7.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week7.md">Homework</a></td>
 </tr>
 </tbody></table>
 
