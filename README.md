@@ -24,7 +24,7 @@
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
-<td><a href="https://github.com/sf-wdi-33/ruby-koans">Ruby Intro</a></td>
+<td><a href="https://github.com/sf-wdi-33/idiomatic-ruby">Idiomatic Ruby (Justin)</a></td>
 <td><a "https://github.com/sf-wdi-33/schedule-33">Ruby Methods(Justin)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/ruby-oop">Ruby OOP/cars</a></td>
 <td>RSpec</td>
