@@ -3,8 +3,6 @@
 
 [Class Culture, Policies, & Procedures](https://github.com/sf-wdi-33/schedule-33/blob/master/how-tos/WDI%2033%20orientation.pdf)
 
-<!--
-
 #### Week 7 - Ruby
 <table><thead>
 <tr>
@@ -58,7 +56,6 @@
 </tr>
 </tbody></table>
 
--->
 
 #### [Angular Style Guide](https://github.com/sf-wdi-33/angular_style_guide)
 
