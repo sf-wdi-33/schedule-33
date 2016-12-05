@@ -35,7 +35,7 @@
 <td><a href="https://github.com/sf-wdi-33/schedule-33">Idomatic Ruby(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-33/schedule-33">Ruby Methods cont'd</a></td>
 <td>Outcomes (Neda)</td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33">Go Fish(both)</a></td>
+<td><a href="https://github.com/sf-wdi-33/go-fish-card-game">Go Fish(both)</a></td>
 <td><a href="https://github.com/sf-wdi-33/schedule-33">Wheel of Fortune(both)</a></td>
 </tr>
 <tr>
@@ -43,7 +43,7 @@
 <td><a href="https://github.com/sf-wdi-33/schedule-33">Training: Ruby</a></td>
 <td><a href="https://github.com/sf-wdi-33/schedule-33">Ruby Method Drills</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/ruby-oop">Ruby OOP</a></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33">Go Fish cont'd</a></td>
+<td><a href="https://github.com/sf-wdi-33/go-fish-card-game">Go Fish cont'd</a></td>
 <td><a href="https://github.com/sf-wdi-33/schedule-33">Wheel of Fortune cont'd</a></td>
 </tr>
 <tr>
