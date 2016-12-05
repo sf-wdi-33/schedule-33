@@ -32,7 +32,7 @@
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33">Idomatic Ruby(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-33/ruby-koans">Ruby Koans</a></td>
 <td><a href="https://github.com/sf-wdi-33/schedule-33">Ruby Methods cont'd</a></td>
 <td>Outcomes (Neda)</td>
 <td><a href="https://github.com/sf-wdi-33/go-fish-card-game">Go Fish(both)</a></td>
@@ -40,7 +40,7 @@
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33">Training: Ruby</a></td>
+<td><a href="https://github.com/sf-wdi-33/ruby-koans">Training: Ruby Koans</a></td>
 <td><a href="https://github.com/sf-wdi-33/schedule-33">Ruby Method Drills</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/ruby-oop">Ruby OOP</a></td>
 <td><a href="https://github.com/sf-wdi-33/go-fish-card-game">Go Fish cont'd</a></td>
