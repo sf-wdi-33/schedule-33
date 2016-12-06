@@ -36,7 +36,7 @@
 <td><a href="https://github.com/sf-wdi-33/ruby_method_drills">Ruby Methods Drills (Justin</a></td>
 <td>Outcomes (Neda)</td>
 <td><a href="https://github.com/sf-wdi-33/go-fish-card-game">Go Fish(both)</a></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33">Wheel of Fortune(both)</a></td>
+<td><a href="https://github.com/sf-wdi-33/wheel_of_fortune">Wheel of Fortune(both)</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
@@ -44,7 +44,7 @@
 <td><a href="https://github.com/sf-wdi-33/ruby_method_drills">Ruby Method Drills(Justin)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/ruby-oop">Ruby OOP</a></td>
 <td><a href="https://github.com/sf-wdi-33/go-fish-card-game">Go Fish cont'd</a></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33">Wheel of Fortune cont'd</a></td>
+<td><a href="https://github.com/sf-wdi-33/wheel_of_fortune">Wheel of Fortune cont'd</a></td>
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
