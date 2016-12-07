@@ -20,7 +20,7 @@
 <td><a href="https://github.com/sf-wdi-33/ruby-koans">Ruby Koans(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-33/ruby-oop">Ruby OOP(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-33/rspec">RSpec(Justin)</a></td>
-<td>Ruby Review/Algorithm</td>
+<td><a href="https://github.com/sf-wdi-33/js-algorithms-drills/tree/master/binary-search">Ruby Review/Binary Search</a> </td>
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
