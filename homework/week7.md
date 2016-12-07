@@ -9,7 +9,7 @@
 
 ##Day 3
 
--- [finish OOP lab](https://github.com/sf-wdi-33/ruby-oop-lab)
+- [finish OOP lab](https://github.com/sf-wdi-33/ruby-oop-lab)
 
 
 ##Day 4
