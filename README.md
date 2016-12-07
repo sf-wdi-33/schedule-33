@@ -42,7 +42,7 @@
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
 <td><a href="https://github.com/sf-wdi-33/ruby-koans">Training: Ruby Koans</a></td>
 <td><a href="https://github.com/sf-wdi-33/ruby_method_drills">Ruby Method Drills(Justin)</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/ruby-oop">Ruby OOP</a></td>
+<td><a href="https://github.com/sf-wdi-33/ruby-oop-lab">Ruby OOP</a></td>
 <td><a href="https://github.com/sf-wdi-33/go-fish-card-game">Go Fish cont'd</a></td>
 <td><a href="https://github.com/sf-wdi-33/wheel_of_fortune">Wheel of Fortune cont'd</a></td>
 </tr>
