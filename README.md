@@ -19,7 +19,7 @@
 <td><a href="https://github.com/sf-wdi-33/intro-ruby">Ruby Intro(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-33/ruby-koans">Ruby Koans(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-33/ruby-oop">Ruby OOP(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33">RSpec(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-33/rspec">RSpec(Justin)</a></td>
 <td>Ruby Review/Algorithm</td>
 </tr>
 <tr>
