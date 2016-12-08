@@ -3,7 +3,7 @@
 
 [Class Culture, Policies, & Procedures](https://github.com/sf-wdi-33/schedule-33/blob/master/how-tos/WDI%2033%20orientation.pdf)
 <!--
-#### Week 7 - Rails
+#### Week 8 - Rails
 <table><thead>
 <tr>
 <th>Time</th>
@@ -27,7 +27,7 @@
 <td><a href="https://github.com/sf-wdi-33/rails-intro"> Intro Rails(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-33/schedule-33">Rails Views, Partials and Helpers
 (Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33">Associations(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-33/rails-associations">Associations(Jean)</a></td>
 <td>RSpec</td>
 <td><a href="https://github.com/sf-wdi-33/schedule-33">Project 1 JS to RoR Refactor</a></td>
 </tr>
