@@ -2,6 +2,62 @@
 #General Assembly Cohort 33  
 
 [Class Culture, Policies, & Procedures](https://github.com/sf-wdi-33/schedule-33/blob/master/how-tos/WDI%2033%20orientation.pdf)
+<!--
+#### Week 7 - Rails
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day  5</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><strong>9:17am - 10:20am Module 1</strong></td>
+<td><a href="https://github.com/sf-wdi-33/rails-intro"> Intro Rails(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-33/rubyMerge">TDD Merge Sort Ruby(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-33/ruby-oop">Ruby OOP(Jean)</a></td>
+<td>Suprise Ruby Algo</td>
+<td>Suprise Ruby Algo</td>
+</tr>
+<tr>
+<td><strong>10:30am - 12:30pm Module 2</strong></td>
+<td><a href="https://github.com/sf-wdi-33/rails-intro"> Intro Rails(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33">Rails Views, Partials and Helpers
+(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33">Associations(Jean)</a></td>
+<td>RSpec</td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33">Project 1 JS to RoR Refactor</a></td>
+</tr>
+<tr>
+<td><strong>1:30pm - 2:50pm Module 3</strong></td>
+<td><a href="https://github.com/sf-wdi-33/hacktive_record">HAcktive Record(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33">Rock n' Rails</a></td>
+<td>Outcomes (Neda)</td>
+<td><a href="https://github.com/sf-wdi-33/public_library_app">Library App pt. 1</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33">Project 1 JS to RoR Refactor</a></td>
+</tr>
+<tr>
+<td><strong>3:00pm - 4:30pm Module 4</strong></td>
+<td><a href="https://github.com/sf-wdi-33/hacktive_record">HAcktive Record(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33">Rock n' Rails</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33">Rails Pet Lab(Andrew)</a></td>
+<td><a href="https://github.com/sf-wdi-33/public_library_app">Library App pt. 1</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33">Project 1 JS to RoR Refactor</a></td>
+</tr>
+<tr>
+<td><strong>Training / Office Hours</strong></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week8.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week8.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week8.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week8.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week8.md">Homework</a></td>
+</tr>
+</tbody></table>
+
+-->
 
 #### Week 7 - Ruby
 <table><thead>
