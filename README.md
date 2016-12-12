@@ -2,7 +2,7 @@
 #General Assembly Cohort 33  
 
 [Class Culture, Policies, & Procedures](https://github.com/sf-wdi-33/schedule-33/blob/master/how-tos/WDI%2033%20orientation.pdf)
-<!--
+
 #### Week 8 - Rails
 <table><thead>
 <tr>
@@ -57,7 +57,6 @@
 </tr>
 </tbody></table>
 
--->
 
 #### Week 7 - Ruby
 <table><thead>
