@@ -17,7 +17,7 @@
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
 <td><a href="https://github.com/sf-wdi-33/rails-intro"> Intro Rails(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-33/bubble_sort_ruby">Suprise Ruby Algo</a></td>
+<td><a href="https://github.com/sf-wdi-33/bubble_sort_ruby">Suprise Ruby Algo(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-33/schedule-33">Migrations(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-33/rubyMerge">TDD Merge Sort Ruby(Jean)</a></td>
 <td>Suprise Ruby Algo</td>
