@@ -26,7 +26,7 @@
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
 <td><a href="https://github.com/sf-wdi-33/rails-intro"> Intro Rails(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33">Migrations(Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-33/rails-migrations-and-associations">Migrations(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-33/schedule-33/rails-view-partials-and-helpers">Rails Views, Partials and Helpers
 (Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-33/public_library_app">Library App pt. 1</a></td>
