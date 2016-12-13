@@ -7,7 +7,7 @@
 
 
 ##Day 2
-- 
+- [finish Rock n' Rails](https://github.com/sf-wdi-33/rock-n-rails)
 
 ##Day 3
 - 
