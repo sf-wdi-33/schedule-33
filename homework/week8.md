@@ -10,7 +10,7 @@
 - [finish Rock n' Rails](https://github.com/sf-wdi-33/rock-n-rails)
 
 ##Day 3
-- 
+- [finish pet lab](https://github.com/sf-wdi-33/pet-lab)
 
 ##Day 4
 -
