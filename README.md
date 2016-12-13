@@ -43,7 +43,7 @@
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
 <td><a href="https://github.com/sf-wdi-33/hacktive_record">HAcktive Record(Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33">Rock n' Rails</a></td>
+<td><a href="https://github.com/sf-wdi-33/rock-n-rails">Rock n' Rails</a></td>
 <td><a href="https://github.com/sf-wdi-33/pet-lab">Rails Pet Lab(Andrew)</a></td>
 <td><a href="https://github.com/sf-wdi-33/public_library_app">Library App pt. 1</a></td>
 <td><a href="https://github.com/sf-wdi-33/schedule-33">Project 1 JS to RoR Refactor</a></td>
