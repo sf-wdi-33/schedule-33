@@ -20,7 +20,7 @@
 <td><a href="https://github.com/sf-wdi-33/bubble_sort_ruby">Suprise Ruby Algo(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-33/schedule-33/rails-view-partials-and-helpers">Rails Views, Partials and Helpers
 (Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-33/rubyMerge">TDD Merge Sort Ruby(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-33/rubyMerge">TDD Ruby Merge 2 Arrays(Jean)</a></td>
 <td>Suprise Ruby Algo</td>
 </tr>
 <tr>
