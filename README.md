@@ -29,7 +29,7 @@
 <td><a href="https://github.com/sf-wdi-33/rails-migrations-and-associations">Migrations(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-33/schedule-33/rails-view-partials-and-helpers">Rails Views, Partials and Helpers
 (Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-33/public_library_app">Library App pt. 1</a></td>
+<td><a href="https://github.com/sf-wdi-33/rails-auth">Rails Authentication</a></td>
 <td><a href="https://github.com/sf-wdi-33/schedule-33">Project 1 JS to RoR Refactor</a></td>
 </tr>
 <tr>
