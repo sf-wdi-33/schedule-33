@@ -20,8 +20,8 @@
 <td><a href="https://github.com/sf-wdi-33/bubble_sort_ruby">Suprise Ruby Algo(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-33/rails-view-partials-and-helpers">Rails Views, Partials and Helpers
 (Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-33/cookies-sessions"></a>Cookies and Sessions</td>
 <td><a href="https://github.com/sf-wdi-33/rubyMerge">TDD Ruby Merge 2 Arrays(Jean)</a></td>
-<td><a href="https://github.com/sf-wdi-33/public_library_app">Library App pt. 1</a></td>
 </tr>
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
