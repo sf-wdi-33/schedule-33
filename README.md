@@ -38,7 +38,7 @@
 <td><a href="https://github.com/sf-wdi-33/rails-associations">Associations(Jean)</a></td>
 <td>Outcomes (Neda)</td>
 <td><a href="https://github.com/sf-wdi-33/rails-auth">Rails Authentication</a></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33">Project 1 JS to RoR Refactor</a></td>
+<td><a href="https://github.com/sf-wdi-33/rails_bog_app">Bog App</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
@@ -46,7 +46,7 @@
 <td><a href="https://github.com/sf-wdi-33/rock-n-rails">Rock n' Rails</a></td>
 <td><a href="https://github.com/sf-wdi-33/pet-lab">Rails Pet Lab(Andrew)</a></td>
 <td><a href="https://github.com/sf-wdi-33/rails-auth">Rails Authentication</a></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33">Project 1 JS to RoR Refactor</a></td>
+<td><a href="https://github.com/sf-wdi-33/rails_bog_app">Bog App</a></td>
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
