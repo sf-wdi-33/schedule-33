@@ -20,7 +20,7 @@
 <td><a href="https://github.com/sf-wdi-33/bubble_sort_ruby">Suprise Ruby Algo(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-33/rails-view-partials-and-helpers">Rails Views, Partials and Helpers
 (Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-33/cookies-sessions"></a>Cookies and Sessions</td>
+<td><a href="https://github.com/sf-wdi-33/cookies-sessions">Cookies and Sessions</a></td>
 <td><a href="https://github.com/sf-wdi-33/rubyMerge">TDD Ruby Merge 2 Arrays(Jean)</a></td>
 </tr>
 <tr>
@@ -29,7 +29,7 @@
 <td><a href="https://github.com/sf-wdi-33/rails-migrations-and-associations">Migrations(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-33/schedule-33/rails-view-partials-and-helpers">Rails Views, Partials and Helpers
 (Justin)</a></td>
-<td><a href="https://github.com/sf-wdi-33/rails-auth">Rails Authentication</a></td>
+<td><a href="https://github.com/sf-wdi-33/cookie-monster-app">Cookie Monster Lab</a></td>
 <td><a href="https://github.com/sf-wdi-33/schedule-33">Project 1 JS to RoR Refactor</a></td>
 </tr>
 <tr>
@@ -37,7 +37,7 @@
 <td><a href="https://github.com/sf-wdi-33/hacktive_record">HAcktive Record(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-33/rails-associations">Associations(Jean)</a></td>
 <td>Outcomes (Neda)</td>
-<td><a href="https://github.com/sf-wdi-33/public_library_app">Library App pt. 1</a></td>
+<td><a href="https://github.com/sf-wdi-33/rails-auth">Rails Authentication</a></td>
 <td><a href="https://github.com/sf-wdi-33/schedule-33">Project 1 JS to RoR Refactor</a></td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@
 <td><a href="https://github.com/sf-wdi-33/hacktive_record">HAcktive Record(Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-33/rock-n-rails">Rock n' Rails</a></td>
 <td><a href="https://github.com/sf-wdi-33/pet-lab">Rails Pet Lab(Andrew)</a></td>
-<td><a href="https://github.com/sf-wdi-33/public_library_app">Library App pt. 1</a></td>
+<td><a href="https://github.com/sf-wdi-33/rails-auth">Rails Authentication</a></td>
 <td><a href="https://github.com/sf-wdi-33/schedule-33">Project 1 JS to RoR Refactor</a></td>
 </tr>
 <tr>
