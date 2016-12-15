@@ -2,6 +2,60 @@
 #General Assembly Cohort 33  
 
 [Class Culture, Policies, & Procedures](https://github.com/sf-wdi-33/schedule-33/blob/master/how-tos/WDI%2033%20orientation.pdf)
+<!--
+#### Week 9 - Rails Cont'd
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day  5</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><strong>9:17am - 10:20am Module 1</strong></td>
+<td><a href="https://github.com/sf-wdi-33">Secret Keys</a></td>
+<td>Ruby Algorithm Surprise</td>
+<td>Ruby Algorithm Surprise</td>
+<td>Holiday</td>
+<td>Holiday</td>
+</tr>
+<tr>
+<td><strong>10:30am - 12:30pm Module 2</strong></td>
+<td><a href="https://github.com/sf-wdi-33/public_library_app">Library App sprint 1</a></td>
+<td><a href="https://github.com/sf-wdi-33/turbolinks_challenge">Ruby on Rails with JS lab(Jean)</a></td>
+<td><a href="https://github.com/sf-wdi-33/public_library_app">Library App sprint 2</a></td>
+<td>Holiday</td>
+<td>Holiday</td>
+</tr>
+<tr>
+<td><strong>1:30pm - 2:50pm Module 3</strong></td>
+<td><a href="https://github.com/sf-wdi-33/public_library_app">Library App sprint 1</a></td>
+<td><a href="https://github.com/sf-wdi-33/asset-pipeline-poem">Asset Pipeline Poem</a></td>
+<td><a href="https://github.com/sf-wdi-33/public_library_app">Library App sprint 2</a></td>
+<td>Holiday</td>
+<td>Holiday</td>
+</tr>
+<tr>
+<td><strong>3:00pm - 4:30pm Module 4</strong></td>
+<td>Validation && Error Handling</td>
+<td>Raingular(Justin)</td>
+<td><a href="https://github.com/sf-wdi-33/public_library_app">Library App sprint 2</a></td>
+<td>Holiday</td>
+<td>Holiday</td>
+</tr>
+<tr>
+<td><strong>Training / Office Hours</strong></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week9.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week8.md">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-33/schedule-33/blob/master/homework/week8.md">Homework</a></td>
+<td>Holiday</td>
+<td>Holiday</td>
+</tr>
+</tbody></table>
+-->
 
 #### Week 8 - Rails
 <table><thead>
