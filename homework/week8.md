@@ -16,7 +16,7 @@
 -
 
 ##Day 5
-- 
+- [finish bog app](https://github.com/sf-wdi-33/rails_bog_app)
 
 
 
