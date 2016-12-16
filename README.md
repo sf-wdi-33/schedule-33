@@ -84,7 +84,7 @@
 <td><a href="https://github.com/sf-wdi-33/schedule-33/rails-view-partials-and-helpers">Rails Views, Partials and Helpers
 (Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-33/cookie-monster-app">Cookie Monster Lab</a></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33">Project 1 JS to RoR Refactor</a></td>
+<td><a href="https://github.com/sf-wdi-33/Project1-rails-refactor">Project 1 JS to RoR Refactor</a></td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
@@ -92,7 +92,7 @@
 <td><a href="https://github.com/sf-wdi-33/rails-associations">Associations(Jean)</a></td>
 <td>Outcomes (Neda)</td>
 <td><a href="https://github.com/sf-wdi-33/rails-auth">Rails Authentication</a></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33">Project 1 JS to RoR Refactor</a></td>
+<td><a href="https://github.com/sf-wdi-33/Project1-rails-refactor">Project 1 JS to RoR Refactor</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
