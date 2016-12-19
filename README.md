@@ -40,7 +40,7 @@
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
-<td>Validation && Error Handling</td>
+<td><a href="https://github.com/sf-wdi-33/rails-validations-and-error-handling">Validation && Error Handling</a></td>
 <td>Raingular(Justin)</td>
 <td><a href="https://github.com/sf-wdi-33/public_library_app">Library App sprint 2</a></td>
 <td>Holiday</td>
