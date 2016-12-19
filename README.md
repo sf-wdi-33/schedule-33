@@ -2,7 +2,7 @@
 #General Assembly Cohort 33  
 
 [Class Culture, Policies, & Procedures](https://github.com/sf-wdi-33/schedule-33/blob/master/how-tos/WDI%2033%20orientation.pdf)
-<!--
+
 #### Week 9 - Rails Cont'd
 <table><thead>
 <tr>
@@ -16,9 +16,9 @@
 </thead><tbody>
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
-<td><a href="https://github.com/sf-wdi-33">Secret Keys</a></td>
+<td><a href="https://github.com/sf-wdi-33/secret-keys">Secret Keys</a></td>
 <td>Ruby Algorithm Surprise</td>
-<td>Ruby Algorithm Surprise</td>
+<td>White Elephant Gift X-Change :elephant:</td> 
 <td>Holiday</td>
 <td>Holiday</td>
 </tr>
@@ -55,7 +55,7 @@
 <td>Holiday</td>
 </tr>
 </tbody></table>
--->
+
 
 #### Week 8 - Rails
 <table><thead>
@@ -84,7 +84,7 @@
 <td><a href="https://github.com/sf-wdi-33/schedule-33/rails-view-partials-and-helpers">Rails Views, Partials and Helpers
 (Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-33/cookie-monster-app">Cookie Monster Lab</a></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33">Project 1 JS to RoR Refactor</a></td>
+<td><a href="https://github.com/sf-wdi-33/Project1-rails-refactor">Project 1 JS to RoR Refactor</a></td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
@@ -92,7 +92,7 @@
 <td><a href="https://github.com/sf-wdi-33/rails-associations">Associations(Jean)</a></td>
 <td>Outcomes (Neda)</td>
 <td><a href="https://github.com/sf-wdi-33/rails-auth">Rails Authentication</a></td>
-<td><a href="https://github.com/sf-wdi-33/schedule-33">Project 1 JS to RoR Refactor</a></td>
+<td><a href="https://github.com/sf-wdi-33/Project1-rails-refactor">Project 1 JS to RoR Refactor</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
