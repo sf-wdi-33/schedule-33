@@ -17,7 +17,7 @@
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
 <td><a href="https://github.com/sf-wdi-33/secret-keys">Secret Keys</a></td>
-<td>Ruby Algorithm Surprise</td>
+<td><a href="https://github.com/sf-wdi-33/ruby-algorithms-drills/tree/master/radix-sort">Ruby Algorithm Surprise</a></td>
 <td>White Elephant Gift X-Change :elephant:</td> 
 <td>Holiday</td>
 <td>Holiday</td>
