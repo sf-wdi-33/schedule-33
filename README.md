@@ -33,7 +33,7 @@
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
 <td><a href="https://github.com/sf-wdi-33/public_library_app">Library App sprint 1</a></td>
-<td><a href="https://github.com/sf-wdi-33/asset-pipeline-poem">Asset Pipeline Poem</a></td>
+<td><a href="https://github.com/sf-wdi-33/asset-pipeline-poem">Asset Pipeline Poem</a> && <a href="https://github.com/sf-wdi-33/rails-asset-pipeline">Asset Pipeline Lab</a></td>
 <td><a href="https://github.com/sf-wdi-33/public_library_app">Library App sprint 2</a></td>
 <td>Holiday</td>
 <td>Holiday</td>
