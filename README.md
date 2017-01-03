@@ -28,7 +28,7 @@
 <td><a href="https://github.com/sf-wdi-33/project-vagabond">Vagabond</a></td>
 <td><a href="https://github.com/sf-wdi-33/project-vagabond">Vagabond</a></td>
 <td><a href="https://github.com/sf-wdi-33/project-vagabond">Vagabond</a></td>
-<td><a href="https://github.com/sf-wdi-33/project-vagabond">Vagabond Reflection/Peer review</a></td>
+<td>Vagabond Reflection/Peer review</td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
