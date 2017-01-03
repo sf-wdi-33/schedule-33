@@ -28,7 +28,7 @@
 <td><a href="https://github.com/sf-wdi-33/project-vagabond">Vagabond</a></td>
 <td><a href="https://github.com/sf-wdi-33/project-vagabond">Vagabond</a></td>
 <td><a href="https://github.com/sf-wdi-33/project-vagabond">Vagabond</a></td>
-<td><a href="https://github.com/sf-wdi-33/project-02">Project 2 Pitches</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-vagabond">Vagabond Reflection/Peer review</a></td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
@@ -36,7 +36,7 @@
 <td><a href="https://github.com/sf-wdi-33/project-vagabond">Vagabond</a></td>
 <td>Outcomes (Neda)</td>
 <td><a href="https://github.com/sf-wdi-33/project-vagabond">Vagabond</a></td>
-<td><a href=https://github.com/sf-wdi-33/project-02>Project 2 Approvals</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-02">Project 2 Pitches/Approvals</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
