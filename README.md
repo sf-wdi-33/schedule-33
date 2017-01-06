@@ -3,6 +3,62 @@
 
 [Class Culture, Policies, & Procedures](https://github.com/sf-wdi-33/schedule-33/blob/master/how-tos/WDI%2033%20orientation.pdf)
 
+
+<!--
+#### Week 11 - Project 2
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day  5</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><strong>9:17am - 10:20am Module 1</strong></td>
+<td><a href="https://github.com/sf-wdi-33/ruby-algorithms-drills/tree/master/max-contig-subarray">Ruby Algorithm(Jean)</a></td>
+<td>Dictionary Trees(Justin)</td>
+<td>Special Topic! TBD</td>
+<td><a href="https://github.com/sf-wdi-33/project-02">Project 2</a></td>
+<td>Project 2 Presentations</td>
+</tr>
+<tr>
+<td><strong>10:30am - 12:30pm Module 2</strong></td>
+<td><a href="https://github.com/sf-wdi-33/project-02">Project 2</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-02">Project 2</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-02">Project 2</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-02">Project 2</a></td>
+<td>Project 2 Presentations</td>
+</tr>
+<tr>
+<td><strong>1:30pm - 2:50pm Module 3</strong></td>
+<td><a href="https://github.com/sf-wdi-33/project-02">Project 2</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-02">Project 2</a></td>
+<td>Outcomes (Neda)</td>
+<td><a href="https://github.com/sf-wdi-33/project-02">Project 2</a></td>
+<td>Project 2 Presentations/Lightening talks intro</td>
+</tr>
+<tr>
+<td><strong>3:00pm - 4:30pm Module 4</strong></td>
+<td><a href="https://github.com/sf-wdi-33/project-02">Project 2</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-02">Project 2</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-02">Project 2</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-02">Project 2</a></td>
+<td><a href=https://github.com/sf-wdi-33/ruby-lightning-talks>Lightening Talks intro</a></td>
+</tr>
+<tr>
+<td><strong>Training / Office Hours</strong></td>
+<td><a href="https://github.com/sf-wdi-33/project-02">Project 2</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-02">Project 2</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-02">Project 2</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-02">Project 2</a></td>
+<td><a href=https://github.com/sf-wdi-33/ruby-lightning-talks>Lightening Talks</a></td>
+</tr>
+</tbody></table>
+-->
+
 #### Week 10 - Vagabond
 <table><thead>
 <tr>
