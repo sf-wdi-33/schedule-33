@@ -4,7 +4,7 @@
 [Class Culture, Policies, & Procedures](https://github.com/sf-wdi-33/schedule-33/blob/master/how-tos/WDI%2033%20orientation.pdf)
 
 
-<!--
+
 #### Week 11 - Project 2
 <table><thead>
 <tr>
@@ -57,7 +57,7 @@
 <td><a href=https://github.com/sf-wdi-33/ruby-lightning-talks>Lightening Talks</a></td>
 </tr>
 </tbody></table>
--->
+
 
 #### Week 10 - Vagabond
 <table><thead>
