@@ -71,7 +71,8 @@
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
 <td><a href="https://github.com/sf-wdi-33/ruby-algorithms-drills/tree/master/max-contig-subarray">Ruby Algorithm(Jean)</a></td>
-<td>Dictionary Trees(Justin)</td>
+<td><a href="https://github.com/sf-wdi-33/js-dictionary-trie">Dictionary Trees(Justin</a>
+</td>
 <td>Special Topic! TBD</td>
 <td><a href="https://github.com/sf-wdi-33/project-02">Project 2</a></td>
 <td>Project 2 Presentations</td>
