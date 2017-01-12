@@ -18,7 +18,7 @@
 <td><strong>9:17am - 10:20am Module 1</strong></td>
 <td>HOLIDAY</td>
 <td><a href="https://github.com/sf-wdi-33/ruby-lightning-talks">Lightening talks</a></td>
-<td><a href="https://github.com/sf-wdi-33/project-03">Project 3 Approvals</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3 Approvals/Mock Interviews</a></td>
 <td><a href="https://github.com/sf-wdi-33/es6">Optional: ES6(Jean)</a></td>
 <td><a href="https://github.com/sf-wdi-33/schedule-33">Optional: React with Rails(Andrew)</a></td>
 </tr>
