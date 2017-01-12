@@ -26,7 +26,7 @@
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
 <td>HOLIDAY</td>
 <td><a href="https://github.com/sf-wdi-33/ruby-lightning-talks">Lightening talks</a></td>
-<td><a href="https://github.com/sf-wdi-33/project-vagabond">Vagabond</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
 <td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
 <td><a href="https://github.com/sf-wdi-33/project-03">Project 3/Mock interviews</a></td>
 </tr>
