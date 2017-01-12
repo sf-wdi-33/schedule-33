@@ -28,7 +28,7 @@
 <td><a href="https://github.com/sf-wdi-33/ruby-lightning-talks">Lightening talks</a></td>
 <td><a href="https://github.com/sf-wdi-33/project-vagabond">Vagabond</a></td>
 <td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
-<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3/Mock interviews</a></td>
 </tr>
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
@@ -36,7 +36,7 @@
 <td><a href="https://github.com/sf-wdi-33/project-03">Project 3 Intro</a></td>
 <td>Outcomes (Neda)</td>
 <td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
-<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3/Mock Interviews</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
@@ -44,7 +44,7 @@
 <td><a href="https://github.com/sf-wdi-33/project-03">Project 3 Pitches/Approvals</a></td>
 <td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
 <td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
-<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3/Mock Interviews</a></td>
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
