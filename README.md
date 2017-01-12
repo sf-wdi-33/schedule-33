@@ -2,6 +2,60 @@
 #General Assembly Cohort 33  
 
 [Class Culture, Policies, & Procedures](https://github.com/sf-wdi-33/schedule-33/blob/master/how-tos/WDI%2033%20orientation.pdf)
+
+<!--
+#### Week 13 - Project 3
+<table><thead>
+<tr>
+<th>Time</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day  5</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><strong>9:17am - 10:20am Module 1</strong></td>
+<td><a href="https://github.com/sf-wdi-33">Special topic of Choice/Algo</a></td>
+<td><a href="https://github.com/sf-wdi-33">Special topic of Choice/Algo</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
+<td>Project 3 Presentations</td>
+<td>Graduation/Peer Feedback</td>
+</tr>
+<tr>
+<td><strong>10:30am - 12:30pm Module 2</strong></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
+<td>Project 3 Presentations</td>
+<td>Graduation/Peer Feedback</td>
+</tr>
+<tr>
+<td><strong>1:30pm - 2:50pm Module 3</strong></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
+<td>Outcomes (Neda)</td>
+<td>Project 3 Presentations</td>
+<td>Graduation/Peer Feedback</td>
+</tr>
+<tr>
+<td><strong>3:00pm - 4:30pm Module 4</strong></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
+<td>Project 3 Presentations</td>
+<td>Graduation/Peer Feedback</td>
+</tr>
+<tr>
+<td><strong>Training / Office Hours</strong></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
+</tr>
+</tbody></table>
+-->
+
 <!--
 #### Week 12 - Project 3
 <table><thead>
