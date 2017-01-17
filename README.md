@@ -80,8 +80,8 @@
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
 <td>HOLIDAY</td>
 <td><a href="https://github.com/sf-wdi-33/ruby-lightning-talks">Lightening talks</a></td>
-<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
-<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3/Mock Interviews</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3/Mock Interviews</a></td>
 <td><a href="https://github.com/sf-wdi-33/project-03">Project 3/Mock interviews</a></td>
 </tr>
 <tr>
@@ -89,15 +89,15 @@
 <td>HOLIDAY</td>
 <td><a href="https://github.com/sf-wdi-33/project-03">Project 3 Intro</a></td>
 <td>Outcomes (Neda)</td>
-<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3/Mock Interviews</a></td>
 <td><a href="https://github.com/sf-wdi-33/project-03">Project 3/Mock Interviews</a></td>
 </tr>
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
 <td>HOLIDAY</td>
 <td><a href="https://github.com/sf-wdi-33/project-03">Project 3 Pitches/Approvals</a></td>
-<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
-<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3/Mock Interviews</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3/Mock Interviews</a></td>
 <td><a href="https://github.com/sf-wdi-33/project-03">Project 3/Mock Interviews</a></td>
 </tr>
 <tr>
