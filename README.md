@@ -103,10 +103,10 @@
 <tr>
 <td><strong>Training / Office Hours</strong></td>
 <td>HOLIDAY</td>
-<td><a href="https://github.com/sf-wdi-33/project-03">Homework</a></td>
-<td><a href="https://github.com/sf-wdi-33/project-03">Homework</a></td>
-<td><a href="https://github.com/sf-wdi-33/project-03">Homework</a></td>
-<td><a href="https://github.com/sf-wdi-33/project-03">Homework</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
 </tr>
 </tbody></table>
 
