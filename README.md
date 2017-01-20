@@ -17,8 +17,8 @@
 </thead><tbody>
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
-<td><a href="https://github.com/sf-wdi-33">Special topic of Choice/Algo</a></td>
-<td><a href="https://github.com/sf-wdi-33">Special topic of Choice/Algo</a></td>
+<td><a href="https://github.com/sf-wdi-33">Hash Tables (Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
 <td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
 <td>Project 3 Presentations</td>
 <td>Graduation/Peer Feedback</td>
