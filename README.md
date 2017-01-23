@@ -3,7 +3,7 @@
 
 [Class Culture, Policies, & Procedures](https://github.com/sf-wdi-33/schedule-33/blob/master/how-tos/WDI%2033%20orientation.pdf)
 
-<!--
+
 #### Week 13 - Project 3
 <table><thead>
 <tr>
@@ -54,7 +54,6 @@
 <td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
 </tr>
 </tbody></table>
--->
 
 
 #### Week 12 - Project 3
