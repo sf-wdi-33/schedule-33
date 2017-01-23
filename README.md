@@ -17,7 +17,7 @@
 </thead><tbody>
 <tr>
 <td><strong>9:17am - 10:20am Module 1</strong></td>
-<td><a href="https://github.com/sf-wdi-33">Hash Tables (Justin)</a></td>
+<td><a href="https://github.com/sf-wdi-33/hash-map-lab">Hash Tables (Justin)</a></td>
 <td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
 <td><a href="https://github.com/sf-wdi-33/project-03">Project 3</a></td>
 <td>Project 3 Presentations</td>
